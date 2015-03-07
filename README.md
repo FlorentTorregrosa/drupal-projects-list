@@ -5,13 +5,13 @@ List of useful Drupal projects grouped by their use.
 
 ## Other
 
-Flag:
+Flag: https://www.drupal.org/project/flag
 
-Migrate:
+Migrate: https://www.drupal.org/project/migrate
 
-Rules:
+Rules: https://www.drupal.org/project/rules
 
-Webform:
+Webform: https://www.drupal.org/project/webform
 
 ## Administration
 
@@ -55,9 +55,9 @@ Commerce stock: https://www.drupal.org/project/commerce_stock
 
 ## Configuration
 
-Features:
+Features: https://www.drupal.org/project/features
 
-Strongarm:
+Strongarm: https://www.drupal.org/project/strongarm
 
 ## Development
 
@@ -66,6 +66,8 @@ Commerce devel: https://www.drupal.org/project/commerce_devel
 Devel: https://www.drupal.org/project/devel
 
 Diff: https://www.drupal.org/project/diff
+
+Ref debug: https://www.drupal.org/project/ref_debug
 
 Search krumo: https://www.drupal.org/project/search_krumo
 
@@ -93,19 +95,19 @@ Field group: https://www.drupal.org/project/field_group
 
 Address Field: https://www.drupal.org/project/addressfield
 
-Email:
+Email: https://www.drupal.org/project/email
 
-Entity reference:
+Entity reference: https://www.drupal.org/project/entityreference
 
-Field collection:
+Field collection: https://www.drupal.org/project/field_collection
 
-link:
+link: https://www.drupal.org/project/link
 
-Machine name:
+Machine name: https://www.drupal.org/project/machine_name
 
 Paragraphs: https://www.drupal.org/project/paragraphs
 
-Phone:
+Phone: https://www.drupal.org/project/phone
 
 ### Widget
 
@@ -127,13 +129,13 @@ Mail system: https://www.drupal.org/project/mailsystem
 
 ## Media management
 
-Assets:
+Asset: https://www.drupal.org/project/asset
 
-Media:
+Media: https://www.drupal.org/project/media
 
-Scald:
+Scald: https://www.drupal.org/project/scald
 
-Transliteration:
+Transliteration: https://www.drupal.org/project/transliteration
 
 ## Menu
 
@@ -149,17 +151,15 @@ Special menu items: https://www.drupal.org/project/special_menu_items
 
 ## Internationalization
 
-Entity translation:
+Entity translation: https://www.drupal.org/project/entity_translation
 
-Internationalization:
-
-Variable:
+Internationalization: https://www.drupal.org/project/i18n
 
 ## Permission
 
 Field permissions: https://www.drupal.org/project/field_permissions
 
-View unpublished: 
+View unpublished: https://www.drupal.org/project/view_unpublished
 
 ## Role
 
@@ -169,33 +169,33 @@ Roleassign: https://www.drupal.org/project/roleassign
 
 ## Search
 
-Facet API:
+Facet API: https://www.drupal.org/project/facetapi
 
-Search API:
+Search API: https://www.drupal.org/project/search_api
 
-Search API Solr:
+Search API Solr: https://www.drupal.org/project/search_api_solr
 
-Search API attechments:
+Search API attachments: https://www.drupal.org/project/search_api_attachments
 
 ## SEO
 
-Metatags:
+Metatags: https://www.drupal.org/project/search_api_solr
 
-Pathauto:
+Pathauto: https://www.drupal.org/project/pathauto
 
-Redirect:
+Redirect: https://www.drupal.org/project/redirect
 
-Sub pathauto:
+Sub pathauto: https://www.drupal.org/project/subpathauto
 
-XML sitemap:
+XML sitemap: https://www.drupal.org/project/xmlsitemap
 
 ## Spam control
 
-Captcha:
+Captcha: https://www.drupal.org/project/captcha
 
-Hidden_captcha:
+Hidden_captcha: https://www.drupal.org/project/hidden_captcha
 
-Honeypot:
+Honeypot: https://www.drupal.org/project/honeypot
 
 ## User
 
@@ -229,9 +229,9 @@ Rate: https://www.drupal.org/project/rate
 
 # Themes
 
-Corolla:
+Corolla: https://www.drupal.org/project/corolla
 
-MAYO:
+MAYO: https://www.drupal.org/project/mayo
 
 ## Administration
 
