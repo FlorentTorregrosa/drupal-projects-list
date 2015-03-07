@@ -5,6 +5,8 @@ List of useful Drupal projects grouped by their use.
 
 ## Other
 
+Custom contextual links: https://www.drupal.org/project/ccl
+
 Flag: https://www.drupal.org/project/flag
 
 Migrate: https://www.drupal.org/project/migrate
@@ -18,6 +20,8 @@ Webform: https://www.drupal.org/project/webform
 Admin menu: https://www.drupal.org/project/admin_menu
 
 Adminimal admin menu: https://www.drupal.org/project/adminimal_admin_menu
+
+Image styles mapping: https://www.drupal.org/project/image_styles_mapping
 
 Module filter: https://www.drupal.org/project/module_filter
 
@@ -63,6 +67,8 @@ Strongarm: https://www.drupal.org/project/strongarm
 
 Commerce devel: https://www.drupal.org/project/commerce_devel
 
+Config in Code: https://www.drupal.org/project/cinc
+
 Devel: https://www.drupal.org/project/devel
 
 Diff: https://www.drupal.org/project/diff
@@ -80,6 +86,12 @@ Display suite: https://www.drupal.org/project/ds
 Panels: https://www.drupal.org/project/panels
 
 Quick tabs: https://www.drupal.org/project/quicktabs
+
+## Editor
+
+Linkit: https://www.drupal.org/project/linkit
+
+Pathologic: https://www.drupal.org/project/pathologic
 
 ## Field
 
@@ -111,13 +123,27 @@ Phone: https://www.drupal.org/project/phone
 
 ### Widget
 
+Autocomplete Deluxe: https://www.drupal.org/project/autocomplete_deluxe
+
+Chosen: https://www.drupal.org/project/chosen
+
 HTML5 Tools: https://www.drupal.org/project/html5_tools
 
+Improve multi select: https://www.drupal.org/project/improved_multi_select
+
 Inline entity form: https://www.drupal.org/project/inline_entity_form
+
+Multiple selects: https://www.drupal.org/project/multiple_selects
+
+Multiselect: https://www.drupal.org/project/multiselect
+
+Select2: https://www.drupal.org/project/select2
 
 ### Field display
 
 Smart trim: https://www.drupal.org/project/smart_trim
+
+Field multiple limit: https://www.drupal.org/project/field_multiple_limit
 
 ## Mail
 
