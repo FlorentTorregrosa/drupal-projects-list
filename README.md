@@ -87,6 +87,8 @@ Panels: https://www.drupal.org/project/panels
 
 Quick tabs: https://www.drupal.org/project/quicktabs
 
+ThemeKey: https://www.drupal.org/project/themekey
+
 ## Editor
 
 Linkit: https://www.drupal.org/project/linkit
@@ -102,6 +104,8 @@ Elements: https://www.drupal.org/project/elements
 Field default token: https://www.drupal.org/project/field_default_token
 
 Field group: https://www.drupal.org/project/field_group
+
+Inline Entity Display: https://www.drupal.org/project/inline_entity_display
 
 ### Field type
 
@@ -240,6 +244,8 @@ Views bulk operations: https://www.drupal.org/project/views_bulk_operations
 Views conditional: https://www.drupal.org/project/views_conditional
 
 Views data export: https://www.drupal.org/project/views_data_export
+
+Views Megarow: https://www.drupal.org/project/views_megarow
 
 Views Selective Filters: https://www.drupal.org/project/views_selective_filters
 
