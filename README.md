@@ -219,6 +219,12 @@ Sub pathauto: https://www.drupal.org/project/subpathauto
 
 XML sitemap: https://www.drupal.org/project/xmlsitemap
 
+## Social
+
+Service links: https://www.drupal.org/project/service_links
+
+ShareThis: https://www.drupal.org/project/sharethis
+
 ## Spam control
 
 Captcha: https://www.drupal.org/project/captcha
@@ -258,6 +264,10 @@ Views PDF: https://www.drupal.org/project/views_pdf
 Fivestar: https://www.drupal.org/project/fivestar
 
 Rate: https://www.drupal.org/project/rate
+
+## Workflow
+
+Scheduler: https://www.drupal.org/project/scheduler
 
 # Themes
 
