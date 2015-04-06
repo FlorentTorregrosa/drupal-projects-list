@@ -41,6 +41,8 @@ Comment notify: https://www.drupal.org/project/comment_notify
 
 Commerce addressbook: https://www.drupal.org/project/commerce_addressbook
 
+Commerce Add to Cart Extras: https://www.drupal.org/project/commerce_add_to_cart_extras
+
 Commerce billy: https://www.drupal.org/project/commerce_billy
 
 Commerce checkout redirect: https://www.drupal.org/project/commerce_checkout_redirect
@@ -64,6 +66,8 @@ Features: https://www.drupal.org/project/features
 Strongarm: https://www.drupal.org/project/strongarm
 
 ## Development
+
+Coder: https://www.drupal.org/project/coder
 
 Commerce devel: https://www.drupal.org/project/commerce_devel
 
