@@ -243,13 +243,19 @@ Better exposed filters: https://www.drupal.org/project/better_exposed_filters
 
 Entity Views Attachment: https://www.drupal.org/project/eva
 
+FooTable: https://www.drupal.org/project/footable
+
 Views auto-refresh: https://www.drupal.org/project/views_autorefresh
+
+Views Blocksit: https://www.drupal.org/project/views_blocksit
 
 Views bulk operations: https://www.drupal.org/project/views_bulk_operations
 
 Views conditional: https://www.drupal.org/project/views_conditional
 
 Views data export: https://www.drupal.org/project/views_data_export
+
+Views Isotope: https://www.drupal.org/project/views_isotope
 
 Views Megarow: https://www.drupal.org/project/views_megarow
 
