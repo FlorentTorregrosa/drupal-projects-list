@@ -245,6 +245,8 @@ User protect: https://www.drupal.org/project/userprotect
 
 Better exposed filters: https://www.drupal.org/project/better_exposed_filters
 
+Entity Reference View Widget: https://www.drupal.org/project/entityreference_view_widget
+
 Entity Views Attachment: https://www.drupal.org/project/eva
 
 FooTable: https://www.drupal.org/project/footable
