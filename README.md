@@ -25,6 +25,8 @@ Image styles mapping: https://www.drupal.org/project/image_styles_mapping
 
 Module filter: https://www.drupal.org/project/module_filter
 
+Simplify: https://www.drupal.org/project/simplify
+
 ## Block
 
 Block class: https://www.drupal.org/project/block_class
