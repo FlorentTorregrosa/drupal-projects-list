@@ -135,6 +135,8 @@ Phone: https://www.drupal.org/project/phone
 
 Autocomplete Deluxe: https://www.drupal.org/project/autocomplete_deluxe
 
+Better Formats: https://www.drupal.org/project/better_formats
+
 Chosen: https://www.drupal.org/project/chosen
 
 HTML5 Tools: https://www.drupal.org/project/html5_tools
@@ -279,7 +281,7 @@ Fivestar: https://www.drupal.org/project/fivestar
 
 Rate: https://www.drupal.org/project/rate
 
-## Workflow
+## Workflow
 
 Scheduler: https://www.drupal.org/project/scheduler
 
