@@ -21,6 +21,8 @@ Admin menu: https://www.drupal.org/project/admin_menu
 
 Adminimal admin menu: https://www.drupal.org/project/adminimal_admin_menu
 
+Administration Menu Source: https://www.drupal.org/project/admin_menu_source
+
 Image styles mapping: https://www.drupal.org/project/image_styles_mapping
 
 Module filter: https://www.drupal.org/project/module_filter
@@ -28,6 +30,8 @@ Module filter: https://www.drupal.org/project/module_filter
 Simplify: https://www.drupal.org/project/simplify
 
 ## Block
+
+Bean: https://www.drupal.org/project/bean
 
 Block class: https://www.drupal.org/project/block_class
 
@@ -82,6 +86,8 @@ Diff: https://www.drupal.org/project/diff
 Ref debug: https://www.drupal.org/project/ref_debug
 
 Search krumo: https://www.drupal.org/project/search_krumo
+
+Web Profiler: https://www.drupal.org/project/webprofiler
 
 ## Display
 
@@ -170,6 +176,8 @@ Mail system: https://www.drupal.org/project/mailsystem
 Asset: https://www.drupal.org/project/asset
 
 Media: https://www.drupal.org/project/media
+
+Remote Stream Wrapper: https://www.drupal.org/project/remote_stream_wrapper
 
 Scald: https://www.drupal.org/project/scald
 
@@ -265,13 +273,17 @@ Views conditional: https://www.drupal.org/project/views_conditional
 
 Views data export: https://www.drupal.org/project/views_data_export
 
+Views Infinite Scroll: https://www.drupal.org/project/views_infinite_scroll
+
 Views Isotope: https://www.drupal.org/project/views_isotope
+
+Views Load More: https://www.drupal.org/project/views_load_more
 
 Views Megarow: https://www.drupal.org/project/views_megarow
 
 Views Selective Filters: https://www.drupal.org/project/views_selective_filters
 
-Views send: https://www.drupal.org/project/views_send
+Views Send: https://www.drupal.org/project/views_send
 
 Views PDF: https://www.drupal.org/project/views_pdf
 
@@ -285,6 +297,10 @@ Rate: https://www.drupal.org/project/rate
 
 Scheduler: https://www.drupal.org/project/scheduler
 
+Workbench: https://www.drupal.org/project/workbench
+
+Workflow: https://www.drupal.org/project/workflow
+
 # Themes
 
 Corolla: https://www.drupal.org/project/corolla
@@ -294,4 +310,3 @@ MAYO: https://www.drupal.org/project/mayo
 ## Administration
 
 Adminimal: https://www.drupal.org/project/adminimal_theme
-
