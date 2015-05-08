@@ -25,6 +25,8 @@ Administration Menu Source: https://www.drupal.org/project/admin_menu_source
 
 Image styles mapping: https://www.drupal.org/project/image_styles_mapping
 
+Masquerade: https://www.drupal.org/project/masquerade
+
 Module filter: https://www.drupal.org/project/module_filter
 
 Simplify: https://www.drupal.org/project/simplify
