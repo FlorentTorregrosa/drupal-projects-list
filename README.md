@@ -135,7 +135,7 @@ Machine name: https://www.drupal.org/project/machine_name
 
 Paragraphs: https://www.drupal.org/project/paragraphs
 
-Phone: https://www.drupal.org/project/phone
+Telephone: https://www.drupal.org/project/telephone
 
 ### Widget
 
