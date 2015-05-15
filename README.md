@@ -85,6 +85,8 @@ Devel: https://www.drupal.org/project/devel
 
 Diff: https://www.drupal.org/project/diff
 
+Enki: https://www.drupal.org/project/enki
+
 Ref debug: https://www.drupal.org/project/ref_debug
 
 Search krumo: https://www.drupal.org/project/search_krumo
