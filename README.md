@@ -91,6 +91,8 @@ Ref debug: https://www.drupal.org/project/ref_debug
 
 Search krumo: https://www.drupal.org/project/search_krumo
 
+Style Guide: https://www.drupal.org/project/styleguide
+
 Web Profiler: https://www.drupal.org/project/webprofiler
 
 ## Display
