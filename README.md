@@ -115,6 +115,8 @@ Pathologic: https://www.drupal.org/project/pathologic
 
 ## Field
 
+BeautyTips: https://www.drupal.org/project/beautytips
+
 Conditional fields: https://www.drupal.org/project/conditional_fields
 
 Elements: https://www.drupal.org/project/elements
@@ -316,3 +318,5 @@ MAYO: https://www.drupal.org/project/mayo
 ## Administration
 
 Adminimal: https://www.drupal.org/project/adminimal_theme
+
+Ember: https://www.drupal.org/project/ember
