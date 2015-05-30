@@ -109,6 +109,8 @@ Context: https://www.drupal.org/project/context
 
 Display suite: https://www.drupal.org/project/ds
 
+Page manager existing pages: https://www.drupal.org/project/pm_existing_pages
+
 Panels: https://www.drupal.org/project/panels
 
 Quick tabs: https://www.drupal.org/project/quicktabs
@@ -122,8 +124,6 @@ Linkit: https://www.drupal.org/project/linkit
 Pathologic: https://www.drupal.org/project/pathologic
 
 ## Field
-
-BeautyTips: https://www.drupal.org/project/beautytips
 
 Conditional fields: https://www.drupal.org/project/conditional_fields
 
@@ -217,6 +217,14 @@ Entity translation: https://www.drupal.org/project/entity_translation
 
 Internationalization: https://www.drupal.org/project/i18n
 
+## Performance
+
+Memcache Storage: https://www.drupal.org/project/memcache_storage
+
+Redis: https://www.drupal.org/project/redis
+
+Varnish: https://www.drupal.org/project/varnish
+
 ## Permission
 
 Field permissions: https://www.drupal.org/project/field_permissions
@@ -278,6 +286,12 @@ Honeypot: https://www.drupal.org/project/honeypot
 ## User
 
 User protect: https://www.drupal.org/project/userprotect
+
+## USer interface
+
+BeautyTips: https://www.drupal.org/project/beautytips
+
+Popup: https://www.drupal.org/project/popup
 
 ## Views
 
