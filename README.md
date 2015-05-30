@@ -31,6 +31,12 @@ Module filter: https://www.drupal.org/project/module_filter
 
 Simplify: https://www.drupal.org/project/simplify
 
+## Analytics
+
+Google Analytics: https://www.drupal.org/project/google_analytics
+
+Piwik Web Analytics: https://www.drupal.org/project/piwik
+
 ## Block
 
 Bean: https://www.drupal.org/project/bean
@@ -235,11 +241,21 @@ Search API attachments: https://www.drupal.org/project/search_api_attachments
 
 ## SEO
 
+Content Optimizer: https://www.drupal.org/project/contentoptimizer
+
+Link checker: https://www.drupal.org/project/linkchecker
+
 Metatags: https://www.drupal.org/project/search_api_solr
+
+Page title: https://www.drupal.org/project/page_title
 
 Pathauto: https://www.drupal.org/project/pathauto
 
 Redirect: https://www.drupal.org/project/redirect
+
+SEO Checklist: https://www.drupal.org/project/seo_checklist
+
+Site verification: https://www.drupal.org/project/site_verify
 
 Sub pathauto: https://www.drupal.org/project/subpathauto
 
