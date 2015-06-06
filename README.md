@@ -45,10 +45,6 @@ Block class: https://www.drupal.org/project/block_class
 
 Floating block: https://www.drupal.org/project/floating_block
 
-## Content
-
-Node Convert: https://www.drupal.org/project/node_convert
-
 ## Breadcrumbs
 
 Crumbs: https://www.drupal.org/project/crumbs
@@ -84,6 +80,10 @@ Commerce stock: https://www.drupal.org/project/commerce_stock
 Features: https://www.drupal.org/project/features
 
 Strongarm: https://www.drupal.org/project/strongarm
+
+## Content
+
+Node Convert: https://www.drupal.org/project/node_convert
 
 ## Development
 
