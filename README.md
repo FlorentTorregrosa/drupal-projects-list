@@ -43,6 +43,12 @@ Bean: https://www.drupal.org/project/bean
 
 Block class: https://www.drupal.org/project/block_class
 
+Floating block: https://www.drupal.org/project/floating_block
+
+## Content
+
+Node Convert: https://www.drupal.org/project/node_convert
+
 ## Breadcrumbs
 
 Crumbs: https://www.drupal.org/project/crumbs
@@ -123,6 +129,10 @@ Linkit: https://www.drupal.org/project/linkit
 
 Pathologic: https://www.drupal.org/project/pathologic
 
+## Entity
+
+Bundle switcher: https://www.drupal.org/project/bundleswitcher
+
 ## Field
 
 Conditional fields: https://www.drupal.org/project/conditional_fields
@@ -201,15 +211,19 @@ Transliteration: https://www.drupal.org/project/transliteration
 
 ## Menu
 
-Menu block: https://www.drupal.org/project/menu_block
+Menu admin per menu: https://www.drupal.org/project/menu_admin_per_menu
 
 Menu attributes: https://www.drupal.org/project/menu_attributes
 
+Menu block: https://www.drupal.org/project/menu_block
+
+Menu Firstchild: https://www.drupal.org/project/menu_firstchild
+
 Menu token: https://www.drupal.org/project/menu_token
 
-Menu admin per menu: https://www.drupal.org/project/menu_admin_per_menu
-
 Special menu items: https://www.drupal.org/project/special_menu_items
+
+Void Menu: https://www.drupal.org/project/void_menu
 
 ## Internationalization
 
