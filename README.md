@@ -299,15 +299,15 @@ Honeypot: https://www.drupal.org/project/honeypot
 
 ## User
 
+Redirect 403 to User Login: https://www.drupal.org/project/r4032login
+
 User protect: https://www.drupal.org/project/userprotect
 
-## USer interface
+## User interface
 
 BeautyTips: https://www.drupal.org/project/beautytips
 
 Popup: https://www.drupal.org/project/popup
-
-Redirect 403 to User Login: https://www.drupal.org/project/r4032login
 
 ## Views
 
