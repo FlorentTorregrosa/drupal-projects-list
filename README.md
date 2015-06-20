@@ -307,6 +307,8 @@ BeautyTips: https://www.drupal.org/project/beautytips
 
 Popup: https://www.drupal.org/project/popup
 
+Redirect 403 to User Login: https://www.drupal.org/project/r4032login
+
 ## Views
 
 Better exposed filters: https://www.drupal.org/project/better_exposed_filters
