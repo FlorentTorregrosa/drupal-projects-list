@@ -87,6 +87,8 @@ Node Convert: https://www.drupal.org/project/node_convert
 
 ## Development
 
+Clean missing modules: https://www.drupal.org/project/clean_missing_modules
+
 Coder: https://www.drupal.org/project/coder
 
 Commerce devel: https://www.drupal.org/project/commerce_devel
@@ -100,6 +102,8 @@ Diff: https://www.drupal.org/project/diff
 Enki: https://www.drupal.org/project/enki
 
 Memory profiler: https://www.drupal.org/project/memory_profiler
+
+Missing module: https://www.drupal.org/project/missing_module
 
 Ref debug: https://www.drupal.org/project/ref_debug
 
@@ -233,11 +237,21 @@ Internationalization: https://www.drupal.org/project/i18n
 
 ## Performance
 
+Advanced CSS/JS Aggregation: https://www.drupal.org/project/advagg
+
+Entity cache: https://www.drupal.org/project/entitycache
+
+ImageAPI Optimize: https://www.drupal.org/project/imageapi_optimize
+
+Fast 404: https://www.drupal.org/project/fast_404
+
 Memcache Storage: https://www.drupal.org/project/memcache_storage
 
 Redis: https://www.drupal.org/project/redis
 
 Varnish: https://www.drupal.org/project/varnish
+
+Views content cache: https://www.drupal.org/project/views_content_cache
 
 ## Permission
 
