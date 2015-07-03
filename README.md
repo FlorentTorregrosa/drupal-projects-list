@@ -327,6 +327,8 @@ Popup: https://www.drupal.org/project/popup
 
 Better exposed filters: https://www.drupal.org/project/better_exposed_filters
 
+DraggableViews: https://www.drupal.org/project/draggableviews
+
 Entity Reference View Widget: https://www.drupal.org/project/entityreference_view_widget
 
 Entity Views Attachment: https://www.drupal.org/project/eva
