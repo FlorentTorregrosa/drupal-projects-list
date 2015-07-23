@@ -239,6 +239,8 @@ Internationalization: https://www.drupal.org/project/i18n
 
 Advanced CSS/JS Aggregation: https://www.drupal.org/project/advagg
 
+Authenticated User Page Caching: https://www.drupal.org/project/authcache
+
 Entity cache: https://www.drupal.org/project/entitycache
 
 ImageAPI Optimize: https://www.drupal.org/project/imageapi_optimize
@@ -323,6 +325,8 @@ BeautyTips: https://www.drupal.org/project/beautytips
 
 Popup: https://www.drupal.org/project/popup
 
+Switchtheme: https://www.drupal.org/project/switchtheme
+
 ## Views
 
 Better exposed filters: https://www.drupal.org/project/better_exposed_filters
@@ -356,6 +360,8 @@ Views Megarow: https://www.drupal.org/project/views_megarow
 Views Selective Filters: https://www.drupal.org/project/views_selective_filters
 
 Views Send: https://www.drupal.org/project/views_send
+
+Views Sexy Throbber: https://www.drupal.org/project/views_sexy_throbber
 
 Views PDF: https://www.drupal.org/project/views_pdf
 
