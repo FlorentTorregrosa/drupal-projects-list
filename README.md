@@ -323,6 +323,8 @@ User protect: https://www.drupal.org/project/userprotect
 
 BeautyTips: https://www.drupal.org/project/beautytips
 
+Icon API: https://www.drupal.org/project/icon
+
 Popup: https://www.drupal.org/project/popup
 
 Switchtheme: https://www.drupal.org/project/switchtheme
