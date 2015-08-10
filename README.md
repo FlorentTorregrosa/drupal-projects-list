@@ -115,6 +115,8 @@ Web Profiler: https://www.drupal.org/project/webprofiler
 
 ## Display
 
+Bootstrap related modules: https://www.drupal.org/node/2011034
+
 Context: https://www.drupal.org/project/context
 
 Display suite: https://www.drupal.org/project/ds
@@ -359,6 +361,8 @@ Views Load More: https://www.drupal.org/project/views_load_more
 
 Views Megarow: https://www.drupal.org/project/views_megarow
 
+Views Responsive Grid: https://www.drupal.org/project/views_responsive_grid
+
 Views Selective Filters: https://www.drupal.org/project/views_selective_filters
 
 Views Send: https://www.drupal.org/project/views_send
@@ -383,9 +387,17 @@ Workflow: https://www.drupal.org/project/workflow
 
 # Themes
 
+AdaptiveTheme: https://www.drupal.org/project/adaptivetheme
+
+Bootstrap: https://www.drupal.org/project/bootstrap
+
 Corolla: https://www.drupal.org/project/corolla
 
 MAYO: https://www.drupal.org/project/mayo
+
+Omega: https://www.drupal.org/project/omega
+
+Zen: https://www.drupal.org/project/zen
 
 ## Administration
 
