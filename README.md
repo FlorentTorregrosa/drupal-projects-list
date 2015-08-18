@@ -191,9 +191,11 @@ Select2: https://www.drupal.org/project/select2
 
 ### Field display
 
-Smart trim: https://www.drupal.org/project/smart_trim
-
 Field multiple limit: https://www.drupal.org/project/field_multiple_limit
+
+Field Slideshow: https://www.drupal.org/project/field_slideshow
+
+Smart trim: https://www.drupal.org/project/smart_trim
 
 ## Mail
 
@@ -301,6 +303,30 @@ Sub pathauto: https://www.drupal.org/project/subpathauto
 
 XML sitemap: https://www.drupal.org/project/xmlsitemap
 
+## Slideshow
+
+Brilliant Gallery: https://www.drupal.org/project/brilliant_gallery
+
+Flex Slider: https://www.drupal.org/project/flexslider
+
+Imageflow: https://www.drupal.org/project/imageflow
+
+JCarousel: https://www.drupal.org/project/jcarousel
+
+RoyalSlider Integration: https://www.drupal.org/project/royalslider
+
+Views Slideshow: https://www.drupal.org/project/views_slideshow
+
+Views Slideshow Configurable Controls: https://www.drupal.org/project/vscc
+
+Views Slideshow JCarousel: https://www.drupal.org/project/views_slideshow_jcarousel
+
+Views Slideshow Galleria: https://www.drupal.org/project/views_slideshow_galleria
+
+Views Slideshow Slider: https://www.drupal.org/project/views_slideshow_slider
+
+Views Slideshow Xtra: https://www.drupal.org/project/views_slideshow_xtra
+
 ## Social
 
 Service links: https://www.drupal.org/project/service_links
@@ -395,6 +421,8 @@ Corolla: https://www.drupal.org/project/corolla
 
 MAYO: https://www.drupal.org/project/mayo
 
+Mothership: https://www.drupal.org/project/mothership
+
 Omega: https://www.drupal.org/project/omega
 
 Zen: https://www.drupal.org/project/zen
@@ -404,3 +432,4 @@ Zen: https://www.drupal.org/project/zen
 Adminimal: https://www.drupal.org/project/adminimal_theme
 
 Ember: https://www.drupal.org/project/ember
+
