@@ -287,7 +287,7 @@ Content Optimizer: https://www.drupal.org/project/contentoptimizer
 
 Link checker: https://www.drupal.org/project/linkchecker
 
-Metatags: https://www.drupal.org/project/search_api_solr
+Metatag: https://www.drupal.org/project/metatag
 
 Page title: https://www.drupal.org/project/page_title
 
@@ -312,6 +312,8 @@ Flex Slider: https://www.drupal.org/project/flexslider
 Imageflow: https://www.drupal.org/project/imageflow
 
 JCarousel: https://www.drupal.org/project/jcarousel
+
+prettyPhoto Formatters: https://www.drupal.org/project/prettyphoto_formatters
 
 RoyalSlider Integration: https://www.drupal.org/project/royalslider
 
