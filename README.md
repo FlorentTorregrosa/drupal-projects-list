@@ -317,6 +317,8 @@ prettyPhoto Formatters: https://www.drupal.org/project/prettyphoto_formatters
 
 RoyalSlider Integration: https://www.drupal.org/project/royalslider
 
+Views Nivo Slider: https://www.drupal.org/project/views_nivo_slider
+
 Views Slideshow: https://www.drupal.org/project/views_slideshow
 
 Views Slideshow Configurable Controls: https://www.drupal.org/project/vscc
