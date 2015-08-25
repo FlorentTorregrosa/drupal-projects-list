@@ -383,6 +383,8 @@ Views conditional: https://www.drupal.org/project/views_conditional
 
 Views data export: https://www.drupal.org/project/views_data_export
 
+Views Fluid Grid: https://www.drupal.org/project/views_fluid_grid
+
 Views Infinite Scroll: https://www.drupal.org/project/views_infinite_scroll
 
 Views Isotope: https://www.drupal.org/project/views_isotope
