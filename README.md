@@ -109,6 +109,8 @@ Ref debug: https://www.drupal.org/project/ref_debug
 
 Search krumo: https://www.drupal.org/project/search_krumo
 
+Stage File Proxy: https://www.drupal.org/project/stage_file_proxy
+
 Style Guide: https://www.drupal.org/project/styleguide
 
 Web Profiler: https://www.drupal.org/project/webprofiler
