@@ -153,6 +153,8 @@ Field group: https://www.drupal.org/project/field_group
 
 Inline Entity Display: https://www.drupal.org/project/inline_entity_display
 
+Maxlength: https://www.drupal.org/project/maxlength
+
 ### Field type
 
 Address Field: https://www.drupal.org/project/addressfield
