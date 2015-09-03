@@ -169,6 +169,8 @@ link: https://www.drupal.org/project/link
 
 Machine name: https://www.drupal.org/project/machine_name
 
+Pane Field: https://www.drupal.org/project/pane_field
+
 Paragraphs: https://www.drupal.org/project/paragraphs
 
 Telephone: https://www.drupal.org/project/telephone
