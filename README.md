@@ -201,6 +201,8 @@ Smart trim: https://www.drupal.org/project/smart_trim
 
 ## Mail
 
+Bounce: https://www.drupal.org/project/bounce
+
 HTML mail: https://www.drupal.org/project/htmlmail
 
 Mail control: https://www.drupal.org/project/mailcontrol
