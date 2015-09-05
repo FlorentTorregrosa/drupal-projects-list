@@ -123,10 +123,6 @@ Context: https://www.drupal.org/project/context
 
 Display suite: https://www.drupal.org/project/ds
 
-Page manager existing pages: https://www.drupal.org/project/pm_existing_pages
-
-Panels: https://www.drupal.org/project/panels
-
 Quick tabs: https://www.drupal.org/project/quicktabs
 
 ThemeKey: https://www.drupal.org/project/themekey
@@ -185,7 +181,7 @@ Chosen: https://www.drupal.org/project/chosen
 
 HTML5 Tools: https://www.drupal.org/project/html5_tools
 
-Improve multi select: https://www.drupal.org/project/improved_multi_select
+Improved multi select: https://www.drupal.org/project/improved_multi_select
 
 Inline entity form: https://www.drupal.org/project/inline_entity_form
 
@@ -244,6 +240,14 @@ Void Menu: https://www.drupal.org/project/void_menu
 Entity translation: https://www.drupal.org/project/entity_translation
 
 Internationalization: https://www.drupal.org/project/i18n
+
+## Panels
+
+Page manager existing pages: https://www.drupal.org/project/pm_existing_pages
+
+Panels: https://www.drupal.org/project/panels
+
+User Pages: https://www.drupal.org/project/user_pages
 
 ## Performance
 
