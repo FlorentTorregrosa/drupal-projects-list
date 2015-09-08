@@ -393,6 +393,8 @@ Views bulk operations: https://www.drupal.org/project/views_bulk_operations
 
 Views conditional: https://www.drupal.org/project/views_conditional
 
+Views Database Connector: https://www.drupal.org/project/views_database_connector
+
 Views data export: https://www.drupal.org/project/views_data_export
 
 Views Fluid Grid: https://www.drupal.org/project/views_fluid_grid
