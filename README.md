@@ -301,8 +301,6 @@ Link checker: https://www.drupal.org/project/linkchecker
 
 Metatag: https://www.drupal.org/project/metatag
 
-Page title: https://www.drupal.org/project/page_title
-
 Pathauto: https://www.drupal.org/project/pathauto
 
 Redirect: https://www.drupal.org/project/redirect
