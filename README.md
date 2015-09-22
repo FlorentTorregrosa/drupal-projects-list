@@ -31,6 +31,8 @@ Module filter: https://www.drupal.org/project/module_filter
 
 Simplify: https://www.drupal.org/project/simplify
 
+Speedboxes - Fast checkbox handling: https://www.drupal.org/project/speedboxes
+
 ## Analytics
 
 Google Analytics: https://www.drupal.org/project/google_analytics
@@ -242,6 +244,8 @@ Void Menu: https://www.drupal.org/project/void_menu
 Entity translation: https://www.drupal.org/project/entity_translation
 
 Internationalization: https://www.drupal.org/project/i18n
+
+String Overrides: https://www.drupal.org/project/stringoverrides
 
 ## Panels
 
