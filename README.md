@@ -439,13 +439,17 @@ Workflow: https://www.drupal.org/project/workflow
 
 # Themes
 
+## Administration
+
+Adminimal: https://www.drupal.org/project/adminimal_theme
+
+Ember: https://www.drupal.org/project/ember
+
+## Base
+
 AdaptiveTheme: https://www.drupal.org/project/adaptivetheme
 
 Bootstrap: https://www.drupal.org/project/bootstrap
-
-Corolla: https://www.drupal.org/project/corolla
-
-MAYO: https://www.drupal.org/project/mayo
 
 Mothership: https://www.drupal.org/project/mothership
 
@@ -453,9 +457,10 @@ Omega: https://www.drupal.org/project/omega
 
 Zen: https://www.drupal.org/project/zen
 
-## Administration
+ZURB Foundation: https://www.drupal.org/project/zurb_foundation
 
-Adminimal: https://www.drupal.org/project/adminimal_theme
+## Final
 
-Ember: https://www.drupal.org/project/ember
+Corolla: https://www.drupal.org/project/corolla
 
+MAYO: https://www.drupal.org/project/mayo
