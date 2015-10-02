@@ -87,6 +87,12 @@ Strongarm: https://www.drupal.org/project/strongarm
 
 Node Convert: https://www.drupal.org/project/node_convert
 
+## Cron enhancement
+
+Elysia Cron: https://www.drupal.org/project/elysia_cron
+
+Ultimate Cron: https://www.drupal.org/project/ultimate_cron
+
 ## Development
 
 Clean missing modules: https://www.drupal.org/project/clean_missing_modules
@@ -247,6 +253,8 @@ Internationalization: https://www.drupal.org/project/i18n
 
 String Overrides: https://www.drupal.org/project/stringoverrides
 
+Translation Management Tool: https://www.drupal.org/project/tmgmt
+
 ## Panels
 
 Page manager existing pages: https://www.drupal.org/project/pm_existing_pages
@@ -306,6 +314,8 @@ Link checker: https://www.drupal.org/project/linkchecker
 Metatag: https://www.drupal.org/project/metatag
 
 Pathauto: https://www.drupal.org/project/pathauto
+
+Pathauto persistent state: https://www.drupal.org/project/pathauto_persist
 
 Redirect: https://www.drupal.org/project/redirect
 
