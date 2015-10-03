@@ -63,6 +63,8 @@ Commerce Add to Cart Extras: https://www.drupal.org/project/commerce_add_to_cart
 
 Commerce billy: https://www.drupal.org/project/commerce_billy
 
+Commerce Cart Expiration: https://www.drupal.org/project/commerce_cart_expiration
+
 Commerce checkout redirect: https://www.drupal.org/project/commerce_checkout_redirect
 
 Commerce coupon: https://www.drupal.org/project/commerce_coupon
