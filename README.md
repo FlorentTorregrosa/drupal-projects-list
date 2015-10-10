@@ -123,6 +123,8 @@ Stage File Proxy: https://www.drupal.org/project/stage_file_proxy
 
 Style Guide: https://www.drupal.org/project/styleguide
 
+Twigify: https://www.drupal.org/project/twigify
+
 Web Profiler: https://www.drupal.org/project/webprofiler
 
 ## Display
@@ -303,9 +305,11 @@ Facet API: https://www.drupal.org/project/facetapi
 
 Search API: https://www.drupal.org/project/search_api
 
-Search API Solr: https://www.drupal.org/project/search_api_solr
-
 Search API attachments: https://www.drupal.org/project/search_api_attachments
+
+Search API saved searches: https://www.drupal.org/project/search_api_saved_searches
+
+Search API Solr: https://www.drupal.org/project/search_api_solr
 
 ## SEO
 
@@ -426,6 +430,8 @@ Views Load More: https://www.drupal.org/project/views_load_more
 Views Megarow: https://www.drupal.org/project/views_megarow
 
 Views Responsive Grid: https://www.drupal.org/project/views_responsive_grid
+
+Views Save: https://www.drupal.org/project/views_save
 
 Views Selective Filters: https://www.drupal.org/project/views_selective_filters
 
