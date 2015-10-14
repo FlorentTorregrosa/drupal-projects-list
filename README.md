@@ -211,6 +211,16 @@ Field Slideshow: https://www.drupal.org/project/field_slideshow
 
 Smart trim: https://www.drupal.org/project/smart_trim
 
+## Internationalization
+
+Entity translation: https://www.drupal.org/project/entity_translation
+
+Internationalization: https://www.drupal.org/project/i18n
+
+String Overrides: https://www.drupal.org/project/stringoverrides
+
+Translation Management Tool: https://www.drupal.org/project/tmgmt
+
 ## Mail
 
 Bounce: https://www.drupal.org/project/bounce
@@ -248,16 +258,6 @@ Menu token: https://www.drupal.org/project/menu_token
 Special menu items: https://www.drupal.org/project/special_menu_items
 
 Void Menu: https://www.drupal.org/project/void_menu
-
-## Internationalization
-
-Entity translation: https://www.drupal.org/project/entity_translation
-
-Internationalization: https://www.drupal.org/project/i18n
-
-String Overrides: https://www.drupal.org/project/stringoverrides
-
-Translation Management Tool: https://www.drupal.org/project/tmgmt
 
 ## Panels
 
