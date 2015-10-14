@@ -51,10 +51,6 @@ Floating block: https://www.drupal.org/project/floating_block
 
 Crumbs: https://www.drupal.org/project/crumbs
 
-## Comment
-
-Comment notify: https://www.drupal.org/project/comment_notify
-
 ## Commerce
 
 Commerce addressbook: https://www.drupal.org/project/commerce_addressbook
@@ -258,6 +254,16 @@ Menu token: https://www.drupal.org/project/menu_token
 Special menu items: https://www.drupal.org/project/special_menu_items
 
 Void Menu: https://www.drupal.org/project/void_menu
+
+## Notification
+
+Comment notify: https://www.drupal.org/project/comment_notify
+
+Message: https://www.drupal.org/project/message
+
+Notify: https://www.drupal.org/project/notify
+
+Subscriptions: https://www.drupal.org/project/subscriptions
 
 ## Panels
 
