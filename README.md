@@ -131,6 +131,8 @@ Context: https://www.drupal.org/project/context
 
 Display suite: https://www.drupal.org/project/ds
 
+Fences: https://www.drupal.org/project/fences
+
 Quick tabs: https://www.drupal.org/project/quicktabs
 
 ThemeKey: https://www.drupal.org/project/themekey
@@ -279,6 +281,8 @@ Advanced CSS/JS Aggregation: https://www.drupal.org/project/advagg
 
 Authenticated User Page Caching: https://www.drupal.org/project/authcache
 
+DB Maintenance: https://www.drupal.org/project/db_maintenance
+
 Entity cache: https://www.drupal.org/project/entitycache
 
 ImageAPI Optimize: https://www.drupal.org/project/imageapi_optimize
@@ -286,6 +290,8 @@ ImageAPI Optimize: https://www.drupal.org/project/imageapi_optimize
 Fast 404: https://www.drupal.org/project/fast_404
 
 Memcache Storage: https://www.drupal.org/project/memcache_storage
+
+OptimizeDB: https://www.drupal.org/project/optimizedb
 
 Redis: https://www.drupal.org/project/redis
 
