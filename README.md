@@ -381,11 +381,15 @@ ShareThis: https://www.drupal.org/project/sharethis
 
 ## Spam control
 
+Botcha: https://www.drupal.org/project/botcha
+
 Captcha: https://www.drupal.org/project/captcha
 
 Hidden_captcha: https://www.drupal.org/project/hidden_captcha
 
 Honeypot: https://www.drupal.org/project/honeypot
+
+reCaptcha: https://www.drupal.org/project/recaptcha
 
 ## User
 
