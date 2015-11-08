@@ -337,6 +337,8 @@ Pathauto persistent state: https://www.drupal.org/project/pathauto_persist
 
 Redirect: https://www.drupal.org/project/redirect
 
+RobotsTxt: https://www.drupal.org/project/robotstxt
+
 SEO Checklist: https://www.drupal.org/project/seo_checklist
 
 Site verification: https://www.drupal.org/project/site_verify
