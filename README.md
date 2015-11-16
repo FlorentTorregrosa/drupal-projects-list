@@ -89,6 +89,8 @@ Node Convert: https://www.drupal.org/project/node_convert
 
 Elysia Cron: https://www.drupal.org/project/elysia_cron
 
+Semiclean: https://www.drupal.org/project/semiclean
+
 Ultimate Cron: https://www.drupal.org/project/ultimate_cron
 
 ## Development
@@ -146,6 +148,8 @@ Pathologic: https://www.drupal.org/project/pathologic
 ## Entity
 
 Bundle switcher: https://www.drupal.org/project/bundleswitcher
+
+Revision All: https://www.drupal.org/project/revision_all
 
 ## Field
 
@@ -322,6 +326,54 @@ Search API attachments: https://www.drupal.org/project/search_api_attachments
 Search API saved searches: https://www.drupal.org/project/search_api_saved_searches
 
 Search API Solr: https://www.drupal.org/project/search_api_solr
+
+## Security
+
+Automated Logout: https://www.drupal.org/project/autologout
+
+Clear saved password field: https://www.drupal.org/project/clear_password_field
+
+Diskfree: https://www.drupal.org/project/diskfree
+
+Ejector Seat: https://www.drupal.org/project/ejectorseat
+
+Email Change Confirmation: https://www.drupal.org/project/email_confirm
+
+Encrypt: https://www.drupal.org/project/encrypt
+
+Flood control: https://www.drupal.org/project/flood_control
+
+Hide PHP Fatal Error: https://www.drupal.org/project/hide_php_fatal_error
+
+Login History: https://www.drupal.org/project/login_history
+
+Login Security: https://www.drupal.org/project/login_security
+
+Logging and alerts: https://www.drupal.org/project/logging_alerts
+
+Mass Password Reset: https://www.drupal.org/project/mass_pwreset
+
+No Autocomplete: https://www.drupal.org/project/no_autocomplete
+
+Paranoia: https://www.drupal.org/project/paranoia
+
+Password policy: https://www.drupal.org/project/password_policy
+
+Real Name: https://www.drupal.org/project/realname
+
+Remove Generator META tag: https://www.drupal.org/project/remove_generator
+
+Security Kit: https://www.drupal.org/project/seckit
+
+Session expire: https://www.drupal.org/project/session_expire
+
+Session Limit: https://www.drupal.org/project/session_limit
+
+User registration password: https://www.drupal.org/project/user_registrationpassword
+
+Username Enumeration Prevention: https://www.drupal.org/project/username_enumeration_prevention
+
+View profiles permissions: https://www.drupal.org/project/view_profiles_perms
 
 ## SEO
 
