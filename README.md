@@ -123,8 +123,6 @@ Style Guide: https://www.drupal.org/project/styleguide
 
 Twigify: https://www.drupal.org/project/twigify
 
-Web Profiler: https://www.drupal.org/project/webprofiler
-
 ## Display
 
 Bootstrap related modules: https://www.drupal.org/node/2011034
