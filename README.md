@@ -29,6 +29,8 @@ Masquerade: https://www.drupal.org/project/masquerade
 
 Module filter: https://www.drupal.org/project/module_filter
 
+Scheduled maintenance: https://www.drupal.org/project/scheduled_maintenance
+
 Simplify: https://www.drupal.org/project/simplify
 
 Speedboxes - Fast checkbox handling: https://www.drupal.org/project/speedboxes
@@ -106,6 +108,8 @@ Config in Code: https://www.drupal.org/project/cinc
 Devel: https://www.drupal.org/project/devel
 
 Diff: https://www.drupal.org/project/diff
+
+Dummy image: https://www.drupal.org/project/dummyimage
 
 Enki: https://www.drupal.org/project/enki
 
@@ -202,6 +206,8 @@ Multiple selects: https://www.drupal.org/project/multiple_selects
 Multiselect: https://www.drupal.org/project/multiselect
 
 Select2: https://www.drupal.org/project/select2
+
+Select2 Field Widget: https://www.drupal.org/project/select2widget
 
 ### Field display
 
@@ -341,6 +347,8 @@ Encrypt: https://www.drupal.org/project/encrypt
 
 Flood control: https://www.drupal.org/project/flood_control
 
+Force Password Change: https://www.drupal.org/project/force_password_change
+
 Hide PHP Fatal Error: https://www.drupal.org/project/hide_php_fatal_error
 
 Login History: https://www.drupal.org/project/login_history
@@ -358,6 +366,8 @@ Paranoia: https://www.drupal.org/project/paranoia
 Password policy: https://www.drupal.org/project/password_policy
 
 Real Name: https://www.drupal.org/project/realname
+
+Rename Admin Paths: https://www.drupal.org/project/rename_admin_paths
 
 Remove Generator META tag: https://www.drupal.org/project/remove_generator
 
@@ -394,6 +404,8 @@ SEO Checklist: https://www.drupal.org/project/seo_checklist
 Site verification: https://www.drupal.org/project/site_verify
 
 Sub pathauto: https://www.drupal.org/project/subpathauto
+
+W3C Validator: https://www.drupal.org/project/w3c_validator
 
 XML sitemap: https://www.drupal.org/project/xmlsitemap
 
