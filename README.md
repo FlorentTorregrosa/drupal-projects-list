@@ -235,6 +235,8 @@ HTML mail: https://www.drupal.org/project/htmlmail
 
 Mail control: https://www.drupal.org/project/mailcontrol
 
+Mail Logger: https://www.drupal.org/project/mail_logger
+
 Mail system: https://www.drupal.org/project/mailsystem
 
 ## Media management
