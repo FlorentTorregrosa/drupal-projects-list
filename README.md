@@ -35,6 +35,8 @@ Simplify: https://www.drupal.org/project/simplify
 
 Speedboxes - Fast checkbox handling: https://www.drupal.org/project/speedboxes
 
+Toolbar Menu: https://www.drupal.org/project/toolbar_menu
+
 ## Analytics
 
 Google Analytics: https://www.drupal.org/project/google_analytics
@@ -85,7 +87,13 @@ Strongarm: https://www.drupal.org/project/strongarm
 
 ## Content
 
+Custom Publishing Options: https://www.drupal.org/project/custom_pub
+
 Node Convert: https://www.drupal.org/project/node_convert
+
+Override Node Options: https://www.drupal.org/project/override_node_options
+
+Publication Date: https://www.drupal.org/project/publication_date
 
 ## Cron enhancement
 
@@ -277,6 +285,8 @@ Notify: https://www.drupal.org/project/notify
 
 Subscriptions: https://www.drupal.org/project/subscriptions
 
+Watcher: https://www.drupal.org/project/watcher
+
 ## Panels
 
 Page manager existing pages: https://www.drupal.org/project/pm_existing_pages
@@ -373,6 +383,8 @@ Rename Admin Paths: https://www.drupal.org/project/rename_admin_paths
 
 Remove Generator META tag: https://www.drupal.org/project/remove_generator
 
+Secure Login: https://www.drupal.org/project/securelogin
+
 Security Kit: https://www.drupal.org/project/seckit
 
 Session expire: https://www.drupal.org/project/session_expire
@@ -460,6 +472,10 @@ reCaptcha: https://www.drupal.org/project/recaptcha
 ## User
 
 Redirect 403 to User Login: https://www.drupal.org/project/r4032login
+
+Restrict password change: https://www.drupal.org/project/restrict_password_change
+
+User Expire: https://www.drupal.org/project/user_expire
 
 User protect: https://www.drupal.org/project/userprotect
 
