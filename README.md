@@ -105,6 +105,8 @@ Ultimate Cron: https://www.drupal.org/project/ultimate_cron
 
 ## Development
 
+Audit Files: https://www.drupal.org/project/auditfiles
+
 Clean missing modules: https://www.drupal.org/project/clean_missing_modules
 
 Coder: https://www.drupal.org/project/coder
