@@ -299,6 +299,8 @@ User Pages: https://www.drupal.org/project/user_pages
 
 ## Performance
 
+http://redcrackle.com/blog/performance/drupal-performance-optimization-checklist
+
 Advanced CSS/JS Aggregation: https://www.drupal.org/project/advagg
 
 Authenticated User Page Caching: https://www.drupal.org/project/authcache
