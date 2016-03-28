@@ -123,6 +123,8 @@ Dummy image: https://www.drupal.org/project/dummyimage
 
 Enki: https://www.drupal.org/project/enki
 
+Entity Relationship Diagrams: https://www.drupal.org/project/erd
+
 Memory profiler: https://www.drupal.org/project/memory_profiler
 
 Missing module: https://www.drupal.org/project/missing_module
