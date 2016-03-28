@@ -489,6 +489,8 @@ Back To Top: https://www.drupal.org/project/back_to_top
 
 BeautyTips: https://www.drupal.org/project/beautytips
 
+Field help helper: https://www.drupal.org/project/field_help_helper
+
 Icon API: https://www.drupal.org/project/icon
 
 Popup: https://www.drupal.org/project/popup
