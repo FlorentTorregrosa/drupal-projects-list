@@ -321,6 +321,8 @@ Memcache Storage: https://www.drupal.org/project/memcache_storage
 
 OptimizeDB: https://www.drupal.org/project/optimizedb
 
+Progressive Web App: https://www.drupal.org/project/pwa
+
 Redis: https://www.drupal.org/project/redis
 
 Varnish: https://www.drupal.org/project/varnish
