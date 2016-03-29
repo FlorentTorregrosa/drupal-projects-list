@@ -175,6 +175,8 @@ Field default token: https://www.drupal.org/project/field_default_token
 
 Field group: https://www.drupal.org/project/field_group
 
+Field Image Style: https://www.drupal.org/project/field_image_style
+
 Inline Entity Display: https://www.drupal.org/project/inline_entity_display
 
 Maxlength: https://www.drupal.org/project/maxlength
@@ -324,6 +326,8 @@ Redis: https://www.drupal.org/project/redis
 Varnish: https://www.drupal.org/project/varnish
 
 Views content cache: https://www.drupal.org/project/views_content_cache
+
+Views Custom Cache Tags: https://www.drupal.org/project/views_custom_cache_tag
 
 ## Permission
 
