@@ -445,6 +445,8 @@ Imageflow: https://www.drupal.org/project/imageflow
 
 JCarousel: https://www.drupal.org/project/jcarousel
 
+Jssor Slider: https://www.drupal.org/project/jssor
+
 prettyPhoto Formatters: https://www.drupal.org/project/prettyphoto_formatters
 
 RoyalSlider Integration: https://www.drupal.org/project/royalslider
