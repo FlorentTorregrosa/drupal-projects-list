@@ -425,8 +425,6 @@ Redirect: https://www.drupal.org/project/redirect
 
 RobotsTxt: https://www.drupal.org/project/robotstxt
 
-SEO Checklist: https://www.drupal.org/project/seo_checklist
-
 Site verification: https://www.drupal.org/project/site_verify
 
 Sub pathauto: https://www.drupal.org/project/subpathauto
@@ -450,6 +448,8 @@ Jssor Slider: https://www.drupal.org/project/jssor
 prettyPhoto Formatters: https://www.drupal.org/project/prettyphoto_formatters
 
 RoyalSlider Integration: https://www.drupal.org/project/royalslider
+
+Slick Carousel: https://www.drupal.org/project/slick
 
 Views Nivo Slider: https://www.drupal.org/project/views_nivo_slider
 
