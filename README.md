@@ -117,6 +117,8 @@ Config in Code: https://www.drupal.org/project/cinc
 
 Devel: https://www.drupal.org/project/devel
 
+Devel accessibility: https://www.drupal.org/project/devel_a11y
+
 Diff: https://www.drupal.org/project/diff
 
 Dummy image: https://www.drupal.org/project/dummyimage
