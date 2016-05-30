@@ -113,6 +113,8 @@ Coder: https://www.drupal.org/project/coder
 
 Commerce devel: https://www.drupal.org/project/commerce_devel
 
+Composer Security Checker: https://www.drupal.org/project/composer_security_checker
+
 Config in Code: https://www.drupal.org/project/cinc
 
 Devel: https://www.drupal.org/project/devel
@@ -216,6 +218,8 @@ HTML5 Tools: https://www.drupal.org/project/html5_tools
 Improved multi select: https://www.drupal.org/project/improved_multi_select
 
 Inline entity form: https://www.drupal.org/project/inline_entity_form
+
+jQuery UI MultiSelect Widget: https://www.drupal.org/project/jquery_ui_multiselect_widget
 
 Multiple selects: https://www.drupal.org/project/multiple_selects
 
