@@ -65,6 +65,8 @@ Commerce billy: https://www.drupal.org/project/commerce_billy
 
 Commerce Cart Expiration: https://www.drupal.org/project/commerce_cart_expiration
 
+Commerce Cart Multiple: https://www.drupal.org/project/commerce_cart_multiple
+
 Commerce checkout redirect: https://www.drupal.org/project/commerce_checkout_redirect
 
 Commerce coupon: https://www.drupal.org/project/commerce_coupon
@@ -142,6 +144,8 @@ Stage File Proxy: https://www.drupal.org/project/stage_file_proxy
 Style Guide: https://www.drupal.org/project/styleguide
 
 Twigify: https://www.drupal.org/project/twigify
+
+Twig Xdebug: https://www.drupal.org/sandbox/charginghawk/2697135
 
 ## Display
 
