@@ -365,6 +365,8 @@ Search API saved searches: https://www.drupal.org/project/search_api_saved_searc
 
 Search API Solr: https://www.drupal.org/project/search_api_solr
 
+Search API View Modes: https://www.drupal.org/project/search_api_view_modes
+
 ## Security
 
 Automated Logout: https://www.drupal.org/project/autologout
