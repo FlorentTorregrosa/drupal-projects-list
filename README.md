@@ -193,6 +193,8 @@ Maxlength: https://www.drupal.org/project/maxlength
 
 Address Field: https://www.drupal.org/project/addressfield
 
+Dynamic Entity Reference: https://www.drupal.org/project/dynamic_entity_reference
+
 Email: https://www.drupal.org/project/email
 
 Entity reference: https://www.drupal.org/project/entityreference
