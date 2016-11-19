@@ -365,6 +365,8 @@ View unpublished: https://www.drupal.org/project/view_unpublished
 
 ## Role
 
+Administer Users by Role: https://www.drupal.org/project/administerusersbyrole
+
 Role export: https://www.drupal.org/project/role_export
 
 Roleassign: https://www.drupal.org/project/roleassign
