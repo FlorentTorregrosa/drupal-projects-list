@@ -621,6 +621,8 @@ AdaptiveTheme: https://www.drupal.org/project/adaptivetheme
 
 Bootstrap: https://www.drupal.org/project/bootstrap
 
+Cog: https://www.drupal.org/project/cog
+
 Mothership: https://www.drupal.org/project/mothership
 
 Omega: https://www.drupal.org/project/omega
