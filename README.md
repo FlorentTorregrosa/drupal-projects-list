@@ -591,6 +591,8 @@ Views Send: https://www.drupal.org/project/views_send
 
 Views Sexy Throbber: https://www.drupal.org/project/views_sexy_throbber
 
+Views Simple Chart: https://www.drupal.org/project/views_simplechart
+
 Views Parity Row: https://www.drupal.org/project/views_parity_row
 
 Views PDF: https://www.drupal.org/project/views_pdf
