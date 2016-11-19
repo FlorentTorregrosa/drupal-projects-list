@@ -375,6 +375,8 @@ Roleassign: https://www.drupal.org/project/roleassign
 
 Elasticsearch Connector: https://www.drupal.org/project/elasticsearch_connector
 
+Elasticsearch Helper: https://www.drupal.org/project/elasticsearch_helper
+
 Facets: https://www.drupal.org/project/facets
 
 Facet API: https://www.drupal.org/project/facetapi
