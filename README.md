@@ -295,6 +295,10 @@ Menu Firstchild: https://www.drupal.org/project/menu_firstchild
 
 Menu token: https://www.drupal.org/project/menu_token
 
+Responsive and off-canvas menu: https://www.drupal.org/project/responsive_menu
+
+Responsive Menus: https://www.drupal.org/project/responsive_menus
+
 Special menu items: https://www.drupal.org/project/special_menu_items
 
 Void Menu: https://www.drupal.org/project/void_menu
