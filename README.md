@@ -15,11 +15,11 @@ Rules: https://www.drupal.org/project/rules
 
 Webform: https://www.drupal.org/project/webform
 
+YAML Form: https://www.drupal.org/project/yamlform
+
 ## Administration
 
-Admin menu: https://www.drupal.org/project/admin_menu
-
-Adminimal admin menu: https://www.drupal.org/project/adminimal_admin_menu
+Admin Toolbar: https://www.drupal.org/project/admin_toolbar
 
 Administration Menu Source: https://www.drupal.org/project/admin_menu_source
 
@@ -48,6 +48,8 @@ Piwik Web Analytics: https://www.drupal.org/project/piwik
 Bean: https://www.drupal.org/project/bean
 
 Block class: https://www.drupal.org/project/block_class
+
+Block Visibility Groups: https://www.drupal.org/project/block_visibility_groups
 
 Floating block: https://www.drupal.org/project/floating_block
 
@@ -118,6 +120,8 @@ Commerce devel: https://www.drupal.org/project/commerce_devel
 Composer Security Checker: https://www.drupal.org/project/composer_security_checker
 
 Config in Code: https://www.drupal.org/project/cinc
+
+Configuration inspector for Drupal 8: https://www.drupal.org/project/config_inspector
 
 Devel: https://www.drupal.org/project/devel
 
@@ -267,6 +271,8 @@ Mail system: https://www.drupal.org/project/mailsystem
 
 ## Media management
 
+Drupal 8 Media Guide: https://drupal-media.gitbooks.io/drupal8-guide/content
+
 Asset: https://www.drupal.org/project/asset
 
 Media: https://www.drupal.org/project/media
@@ -325,6 +331,8 @@ DB Maintenance: https://www.drupal.org/project/db_maintenance
 
 Entity cache: https://www.drupal.org/project/entitycache
 
+HTTP/2 Server Push: https://www.drupal.org/project/http2_server_push
+
 ImageAPI Optimize: https://www.drupal.org/project/imageapi_optimize
 
 Fast 404: https://www.drupal.org/project/fast_404
@@ -336,6 +344,8 @@ OptimizeDB: https://www.drupal.org/project/optimizedb
 Progressive Web App: https://www.drupal.org/project/pwa
 
 Redis: https://www.drupal.org/project/redis
+
+RefreshLess: https://www.drupal.org/project/refreshless
 
 Varnish: https://www.drupal.org/project/varnish
 
@@ -357,11 +367,17 @@ Roleassign: https://www.drupal.org/project/roleassign
 
 ## Search
 
+Elasticsearch Connector: https://www.drupal.org/project/elasticsearch_connector
+
+Facets: https://www.drupal.org/project/facets
+
 Facet API: https://www.drupal.org/project/facetapi
 
 Search API: https://www.drupal.org/project/search_api
 
 Search API attachments: https://www.drupal.org/project/search_api_attachments
+
+Search API Elasticsearch: https://www.drupal.org/project/search_api_elasticsearch
 
 Search API saved searches: https://www.drupal.org/project/search_api_saved_searches
 
@@ -506,6 +522,8 @@ Restrict password change: https://www.drupal.org/project/restrict_password_chang
 User Expire: https://www.drupal.org/project/user_expire
 
 User protect: https://www.drupal.org/project/userprotect
+
+User registration notification: https://www.drupal.org/project/user_register_notify
 
 ## User interface
 
