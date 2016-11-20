@@ -625,6 +625,8 @@ Ember: https://www.drupal.org/project/ember
 
 AdaptiveTheme: https://www.drupal.org/project/adaptivetheme
 
+Bear Skin: https://www.drupal.org/project/bear_skin
+
 Bootstrap: https://www.drupal.org/project/bootstrap
 
 Cog: https://www.drupal.org/project/cog
