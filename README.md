@@ -545,6 +545,8 @@ Icon API: https://www.drupal.org/project/icon
 
 Popup: https://www.drupal.org/project/popup
 
+Responsive Theme Preview: https://www.drupal.org/project/responsive_preview
+
 Scroll to top: https://www.drupal.org/project/scroll_to_top
 
 Switchtheme: https://www.drupal.org/project/switchtheme
