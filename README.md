@@ -607,6 +607,8 @@ Fivestar: https://www.drupal.org/project/fivestar
 
 Rate: https://www.drupal.org/project/rate
 
+Votingapi Widgets: https://www.drupal.org/project/votingapi_widgets
+
 ## Workflow
 
 Scheduler: https://www.drupal.org/project/scheduler
