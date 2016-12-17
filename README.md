@@ -585,6 +585,8 @@ Views Load More: https://www.drupal.org/project/views_load_more
 
 Views Megarow: https://www.drupal.org/project/views_megarow
 
+Views Merge Rows: https://www.drupal.org/project/views_merge_rows
+
 Views Responsive Grid: https://www.drupal.org/project/views_responsive_grid
 
 Views Save: https://www.drupal.org/project/views_save
