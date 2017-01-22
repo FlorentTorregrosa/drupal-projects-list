@@ -161,9 +161,13 @@ Display suite: https://www.drupal.org/project/ds
 
 Fences: https://www.drupal.org/project/fences
 
+Form mode manager: https://www.drupal.org/project/form_mode_manager
+
 Quick tabs: https://www.drupal.org/project/quicktabs
 
 ThemeKey: https://www.drupal.org/project/themekey
+
+View Mode Page: https://www.drupal.org/project/view_mode_page
 
 ## Editor
 
@@ -203,6 +207,8 @@ Email: https://www.drupal.org/project/email
 
 Entity reference: https://www.drupal.org/project/entityreference
 
+Entity reference integrity: https://www.drupal.org/project/entity_reference_integrity
+
 Field collection: https://www.drupal.org/project/field_collection
 
 link: https://www.drupal.org/project/link
@@ -212,6 +218,8 @@ Machine name: https://www.drupal.org/project/machine_name
 Pane Field: https://www.drupal.org/project/pane_field
 
 Paragraphs: https://www.drupal.org/project/paragraphs
+
+Range: https://www.drupal.org/project/range
 
 Telephone: https://www.drupal.org/project/telephone
 
