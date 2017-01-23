@@ -151,6 +151,8 @@ Twigify: https://www.drupal.org/project/twigify
 
 Twig Xdebug: https://www.drupal.org/sandbox/charginghawk/2697135
 
+UI Patterns: https://www.drupal.org/project/ui_patterns
+
 ## Display
 
 Bootstrap related modules: https://www.drupal.org/node/2011034
