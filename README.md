@@ -407,6 +407,8 @@ Search API View Modes: https://www.drupal.org/project/search_api_view_modes
 
 Automated Logout: https://www.drupal.org/project/autologout
 
+ClamAV: https://www.drupal.org/project/clamav
+
 Clear saved password field: https://www.drupal.org/project/clear_password_field
 
 Diskfree: https://www.drupal.org/project/diskfree
