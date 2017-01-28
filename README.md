@@ -381,6 +381,8 @@ Role export: https://www.drupal.org/project/role_export
 
 Roleassign: https://www.drupal.org/project/roleassign
 
+User Personas: https://www.drupal.org/project/personas
+
 ## Search
 
 Elasticsearch Connector: https://www.drupal.org/project/elasticsearch_connector
