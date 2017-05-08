@@ -58,11 +58,9 @@ Rules: https://www.drupal.org/project/rules
 
 Webform: https://www.drupal.org/project/webform
 
-YAML Form: https://www.drupal.org/project/yamlform
-
 ## Administration
 
-Admin Toolbar: https://www.drupal.org/project/admin_toolbar
+Administration menu: https://www.drupal.org/project/admin_menu
 
 Administration Menu Source: https://www.drupal.org/project/admin_menu_source
 
@@ -78,8 +76,6 @@ Simplify: https://www.drupal.org/project/simplify
 
 Speedboxes - Fast checkbox handling: https://www.drupal.org/project/speedboxes
 
-Toolbar Menu: https://www.drupal.org/project/toolbar_menu
-
 ## Analytics
 
 Google Analytics: https://www.drupal.org/project/google_analytics
@@ -91,8 +87,6 @@ Piwik Web Analytics: https://www.drupal.org/project/piwik
 Bean: https://www.drupal.org/project/bean
 
 Block class: https://www.drupal.org/project/block_class
-
-Block Visibility Groups: https://www.drupal.org/project/block_visibility_groups
 
 Floating block: https://www.drupal.org/project/floating_block
 
@@ -154,8 +148,6 @@ Ultimate Cron: https://www.drupal.org/project/ultimate_cron
 
 Audit Files: https://www.drupal.org/project/auditfiles
 
-Clean missing modules: https://www.drupal.org/project/clean_missing_modules
-
 Coder: https://www.drupal.org/project/coder
 
 Commerce devel: https://www.drupal.org/project/commerce_devel
@@ -164,19 +156,13 @@ Composer Security Checker: https://www.drupal.org/project/composer_security_chec
 
 Config in Code: https://www.drupal.org/project/cinc
 
-Configuration inspector for Drupal 8: https://www.drupal.org/project/config_inspector
-
 Devel: https://www.drupal.org/project/devel
-
-Devel accessibility: https://www.drupal.org/project/devel_a11y
 
 Diff: https://www.drupal.org/project/diff
 
 Dummy image: https://www.drupal.org/project/dummyimage
 
 Enki: https://www.drupal.org/project/enki
-
-Entity Relationship Diagrams: https://www.drupal.org/project/erd
 
 Memory profiler: https://www.drupal.org/project/memory_profiler
 
@@ -190,12 +176,6 @@ Stage File Proxy: https://www.drupal.org/project/stage_file_proxy
 
 Style Guide: https://www.drupal.org/project/styleguide
 
-Twigify: https://www.drupal.org/project/twigify
-
-Twig Xdebug: https://www.drupal.org/sandbox/charginghawk/2697135
-
-UI Patterns: https://www.drupal.org/project/ui_patterns
-
 ## Display
 
 Bootstrap related modules: https://www.drupal.org/node/2011034
@@ -205,8 +185,6 @@ Context: https://www.drupal.org/project/context
 Display suite: https://www.drupal.org/project/ds
 
 Fences: https://www.drupal.org/project/fences
-
-Form mode manager: https://www.drupal.org/project/form_mode_manager
 
 Quick tabs: https://www.drupal.org/project/quicktabs
 
@@ -236,8 +214,6 @@ Field default token: https://www.drupal.org/project/field_default_token
 
 Field group: https://www.drupal.org/project/field_group
 
-Field Image Style: https://www.drupal.org/project/field_image_style
-
 Inline Entity Display: https://www.drupal.org/project/inline_entity_display
 
 Maxlength: https://www.drupal.org/project/maxlength
@@ -251,8 +227,6 @@ Dynamic Entity Reference: https://www.drupal.org/project/dynamic_entity_referenc
 Email: https://www.drupal.org/project/email
 
 Entity reference: https://www.drupal.org/project/entityreference
-
-Entity reference integrity: https://www.drupal.org/project/entity_reference_integrity
 
 Field collection: https://www.drupal.org/project/field_collection
 
@@ -323,8 +297,6 @@ Mail Logger: https://www.drupal.org/project/mail_logger
 Mail system: https://www.drupal.org/project/mailsystem
 
 ## Media management
-
-Drupal 8 Media Guide: https://drupal-media.gitbooks.io/drupal8-guide/content
 
 Asset: https://www.drupal.org/project/asset
 
@@ -402,13 +374,9 @@ Progressive Web App: https://www.drupal.org/project/pwa
 
 Redis: https://www.drupal.org/project/redis
 
-RefreshLess: https://www.drupal.org/project/refreshless
-
 Varnish: https://www.drupal.org/project/varnish
 
 Views content cache: https://www.drupal.org/project/views_content_cache
-
-Views Custom Cache Tags: https://www.drupal.org/project/views_custom_cache_tag
 
 ## Permission
 
@@ -424,15 +392,9 @@ Role export: https://www.drupal.org/project/role_export
 
 Roleassign: https://www.drupal.org/project/roleassign
 
-User Personas: https://www.drupal.org/project/personas
-
 ## Search
 
 Elasticsearch Connector: https://www.drupal.org/project/elasticsearch_connector
-
-Elasticsearch Helper: https://www.drupal.org/project/elasticsearch_helper
-
-Facets: https://www.drupal.org/project/facets
 
 Facet API: https://www.drupal.org/project/facetapi
 
@@ -665,8 +627,6 @@ Views PDF: https://www.drupal.org/project/views_pdf
 Fivestar: https://www.drupal.org/project/fivestar
 
 Rate: https://www.drupal.org/project/rate
-
-Votingapi Widgets: https://www.drupal.org/project/votingapi_widgets
 
 ## Workflow
 
