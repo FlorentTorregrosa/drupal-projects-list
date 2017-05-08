@@ -152,8 +152,6 @@ Coder: https://www.drupal.org/project/coder
 
 Commerce devel: https://www.drupal.org/project/commerce_devel
 
-Composer Security Checker: https://www.drupal.org/project/composer_security_checker
-
 Config in Code: https://www.drupal.org/project/cinc
 
 Devel: https://www.drupal.org/project/devel
@@ -162,13 +160,9 @@ Diff: https://www.drupal.org/project/diff
 
 Dummy image: https://www.drupal.org/project/dummyimage
 
-Enki: https://www.drupal.org/project/enki
-
 Memory profiler: https://www.drupal.org/project/memory_profiler
 
 Missing module: https://www.drupal.org/project/missing_module
-
-Ref debug: https://www.drupal.org/project/ref_debug
 
 Search krumo: https://www.drupal.org/project/search_krumo
 
@@ -530,11 +524,7 @@ ShareThis: https://www.drupal.org/project/sharethis
 
 ## Spam control
 
-Botcha: https://www.drupal.org/project/botcha
-
 Captcha: https://www.drupal.org/project/captcha
-
-Hidden_captcha: https://www.drupal.org/project/hidden_captcha
 
 Honeypot: https://www.drupal.org/project/honeypot
 
