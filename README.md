@@ -470,8 +470,6 @@ Metatag: https://www.drupal.org/project/metatag
 
 Pathauto: https://www.drupal.org/project/pathauto
 
-Pathauto persistent state: https://www.drupal.org/project/pathauto_persist
-
 Redirect: https://www.drupal.org/project/redirect
 
 RobotsTxt: https://www.drupal.org/project/robotstxt
@@ -588,8 +586,6 @@ Views Fluid Grid: https://www.drupal.org/project/views_fluid_grid
 
 Views Infinite Scroll: https://www.drupal.org/project/views_infinite_scroll
 
-Views Isotope: https://www.drupal.org/project/views_isotope
-
 Views Load More: https://www.drupal.org/project/views_load_more
 
 Views Megarow: https://www.drupal.org/project/views_megarow
@@ -641,8 +637,6 @@ AdaptiveTheme: https://www.drupal.org/project/adaptivetheme
 Bear Skin: https://www.drupal.org/project/bear_skin
 
 Bootstrap: https://www.drupal.org/project/bootstrap
-
-Cog: https://www.drupal.org/project/cog
 
 Mothership: https://www.drupal.org/project/mothership
 
