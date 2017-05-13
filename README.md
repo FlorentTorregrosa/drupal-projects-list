@@ -199,6 +199,8 @@ Multiselect: https://www.drupal.org/project/multiselect
 
 ### Field display
 
+Extra Field: https://www.drupal.org/project/extra_field
+
 Field multiple limit: https://www.drupal.org/project/field_multiple_limit
 
 Smart trim: https://www.drupal.org/project/smart_trim
@@ -302,6 +304,8 @@ Elasticsearch Helper: https://www.drupal.org/project/elasticsearch_helper
 Facets: https://www.drupal.org/project/facets
 
 Search API: https://www.drupal.org/project/search_api
+
+Search API AZ Glossary: https://www.drupal.org/project/search_api_glossary
 
 Search API attachments: https://www.drupal.org/project/search_api_attachments
 
