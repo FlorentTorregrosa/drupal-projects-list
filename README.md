@@ -10,7 +10,7 @@ List of useful Drupal projects grouped by their use.
   * [Configuration](#configuration)
   * [Content](#content)
   * [Cron enhancement](#cron-enhancement)
-  * [Develoment](#development)
+  * [Development](#development)
   * [Display](#display)
   * [Editor](#editor)
   * [Field](#field)
@@ -126,6 +126,8 @@ Search kint: https://www.drupal.org/project/search_kint
 Stage File Proxy: https://www.drupal.org/project/stage_file_proxy
 
 Style Guide: https://www.drupal.org/project/styleguide
+
+Twig tweak: https://www.drupal.org/project/twig_tweak
 
 UI Patterns: https://www.drupal.org/project/ui_patterns
 
