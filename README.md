@@ -11,7 +11,7 @@ List of useful Drupal projects grouped by their use.
   * [Configuration](#configuration)
   * [Content](#content)
   * [Cron enhancement](#cron-enhancement)
-  * [Develoment](#development)
+  * [Development](#development)
   * [Display](#display)
   * [Editor](#editor)
   * [Entity](#entity)
