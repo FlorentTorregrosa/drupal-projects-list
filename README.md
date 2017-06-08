@@ -201,6 +201,8 @@ Multiselect: https://www.drupal.org/project/multiselect
 
 ### Field display
 
+Compact date/time range formatter: https://www.drupal.org/project/daterange_compact
+
 Extra Field: https://www.drupal.org/project/extra_field
 
 Field multiple limit: https://www.drupal.org/project/field_multiple_limit
