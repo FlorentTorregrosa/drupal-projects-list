@@ -283,6 +283,8 @@ Redis: https://www.drupal.org/project/redis
 
 RefreshLess: https://www.drupal.org/project/refreshless
 
+Sessionless BigPipe: https://www.drupal.org/project/big_pipe_sessionless
+
 Views Custom Cache Tags: https://www.drupal.org/project/views_custom_cache_tag
 
 ## Permission
