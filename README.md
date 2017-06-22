@@ -461,6 +461,8 @@ Votingapi Widgets: https://www.drupal.org/project/votingapi_widgets
 
 ## Workflow
 
+Scheduled Updates: https://www.drupal.org/project/scheduled_updates
+
 Scheduler: https://www.drupal.org/project/scheduler
 
 # Themes
