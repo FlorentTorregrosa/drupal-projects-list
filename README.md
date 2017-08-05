@@ -467,6 +467,10 @@ Scheduler: https://www.drupal.org/project/scheduler
 
 # Themes
 
+## Administration
+
+Eleven: https://www.drupal.org/project/eleven
+
 ## Base
 
 AdaptiveTheme: https://www.drupal.org/project/adaptivetheme
