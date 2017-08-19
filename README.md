@@ -570,6 +570,8 @@ Entity Views Attachment: https://www.drupal.org/project/eva
 
 FooTable: https://www.drupal.org/project/footable
 
+Pagerer: https://www.drupal.org/project/pagerer
+
 Views auto-refresh: https://www.drupal.org/project/views_autorefresh
 
 Views Blocksit: https://www.drupal.org/project/views_blocksit
