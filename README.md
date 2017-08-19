@@ -433,6 +433,8 @@ Entity Views Attachment: https://www.drupal.org/project/eva
 
 FooTable: https://www.drupal.org/project/footable
 
+Pagerer: https://www.drupal.org/project/pagerer
+
 Views conditional: https://www.drupal.org/project/views_conditional
 
 Views Database Connector: https://www.drupal.org/project/views_database_connector
