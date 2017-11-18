@@ -154,6 +154,8 @@ Views Templates: https://www.drupal.org/project/views_templates
 
 ## Display
 
+@font-your-face: https://www.drupal.org/project/fontyourface
+
 Bootstrap related modules: https://www.drupal.org/node/2011034
 
 Context: https://www.drupal.org/project/context
@@ -163,6 +165,8 @@ Display suite: https://www.drupal.org/project/ds
 Domain Theme Switch: https://www.drupal.org/project/domain_theme_switch
 
 Fences: https://www.drupal.org/project/fences
+
+Font Awesome Icons: https://www.drupal.org/project/fontawesome
 
 Form mode manager: https://www.drupal.org/project/form_mode_manager
 
@@ -269,6 +273,8 @@ Remote Stream Wrapper: https://www.drupal.org/project/remote_stream_wrapper
 Colossal Menu: https://www.drupal.org/project/colossal_menu
 
 Drupal 8 MegaMenu: https://www.drupal.org/project/we_megamenu
+
+Font Awesome Menu Icons: https://www.drupal.org/project/fontawesome_menu_icons
 
 Menu admin per menu: https://www.drupal.org/project/menu_admin_per_menu
 
