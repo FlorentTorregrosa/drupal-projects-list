@@ -13,6 +13,7 @@ List of useful Drupal projects grouped by their use.
   * [Development](#development)
   * [Display](#display)
   * [Editor](#editor)
+  * [Entity](#entity)
   * [Field](#field)
     * [Field type](#field-type)
     * [Widget](#widget)
@@ -23,6 +24,7 @@ List of useful Drupal projects grouped by their use.
   * [Menu](#menu)
   * [Notification](#notification)
   * [Panels](#panels)
+  * [Pager](#pager)
   * [Performance](#performance)
   * [Permission](#permission)
   * [Role](#role)
@@ -35,15 +37,24 @@ List of useful Drupal projects grouped by their use.
   * [User](#user)
   * [User interface](#user-interface)
   * [Views](#views)
+  * [Visualization](#visualization)
   * [Voting](#voting)
   * [Workflow](#workflow)
 * [Themes](#themes)
   * [Administration](#administration-1)
   * [Base](#base)
+* [Distributions](#distributions)
+  * [Demo](#demo)
+  * [Starter kit](#starter-kit)
+  * [Final](#final)
 
 # Modules
 
 ## Other
+
+Advanced queue: https://www.drupal.org/project/advancedqueue
+
+Configuration Form: https://www.drupal.org/project/config_form
 
 Custom contextual links: https://www.drupal.org/project/ccl
 
@@ -60,6 +71,8 @@ Admin Toolbar: https://www.drupal.org/project/admin_toolbar
 Image styles mapping: https://www.drupal.org/project/image_styles_mapping
 
 Masquerade: https://www.drupal.org/project/masquerade
+
+Monitoring: https://www.drupal.org/project/monitoring
 
 Scheduled maintenance: https://www.drupal.org/project/scheduled_maintenance
 
@@ -91,9 +104,15 @@ Features: https://www.drupal.org/project/features
 
 ## Content
 
+Content locking (anti-concurrent editing): https://www.drupal.org/project/content_lock
+
 Custom Publishing Options: https://www.drupal.org/project/custom_pub
 
+Entityqueue Form Widget: https://www.drupal.org/project/entityqueue_form_widget
+
 Override Node Options: https://www.drupal.org/project/override_node_options
+
+Paragraphs Previewer: https://www.drupal.org/project/paragraphs_previewer
 
 ## Cron enhancement
 
@@ -131,6 +150,8 @@ Twig tweak: https://www.drupal.org/project/twig_tweak
 
 UI Patterns: https://www.drupal.org/project/ui_patterns
 
+Views Templates: https://www.drupal.org/project/views_templates
+
 ## Display
 
 Bootstrap related modules: https://www.drupal.org/node/2011034
@@ -139,11 +160,15 @@ Context: https://www.drupal.org/project/context
 
 Display suite: https://www.drupal.org/project/ds
 
+Domain Theme Switch: https://www.drupal.org/project/domain_theme_switch
+
 Fences: https://www.drupal.org/project/fences
 
 Form mode manager: https://www.drupal.org/project/form_mode_manager
 
 Quick tabs: https://www.drupal.org/project/quicktabs
+
+Switch Page Theme: https://www.drupal.org/project/switch_page_theme
 
 ThemeKey: https://www.drupal.org/project/themekey
 
@@ -154,6 +179,10 @@ View Mode Page: https://www.drupal.org/project/view_mode_page
 Linkit: https://www.drupal.org/project/linkit
 
 Pathologic: https://www.drupal.org/project/pathologic
+
+## Entity
+
+Entity Class Formatter: https://www.drupal.org/project/entity_class_formatter
 
 ## Field
 
@@ -178,6 +207,8 @@ Dynamic Entity Reference: https://www.drupal.org/project/dynamic_entity_referenc
 Entity reference integrity: https://www.drupal.org/project/entity_reference_integrity
 
 Machine name: https://www.drupal.org/project/machine_name
+
+Name Field: https://www.drupal.org/project/name
 
 Paragraphs: https://www.drupal.org/project/paragraphs
 
@@ -207,6 +238,8 @@ Extra Field: https://www.drupal.org/project/extra_field
 
 Field multiple limit: https://www.drupal.org/project/field_multiple_limit
 
+Obfuscate Email: https://www.drupal.org/project/obfuscate_email
+
 Smart trim: https://www.drupal.org/project/smart_trim
 
 ## Internationalization
@@ -218,6 +251,8 @@ Translation Management Tool: https://www.drupal.org/project/tmgmt
 ## Mail
 
 Mail control: https://www.drupal.org/project/mailcontrol
+
+Mail Editor: https://www.drupal.org/project/mail_edit
 
 Mail system: https://www.drupal.org/project/mailsystem
 
@@ -233,6 +268,8 @@ Remote Stream Wrapper: https://www.drupal.org/project/remote_stream_wrapper
 
 Colossal Menu: https://www.drupal.org/project/colossal_menu
 
+Drupal 8 MegaMenu: https://www.drupal.org/project/we_megamenu
+
 Menu admin per menu: https://www.drupal.org/project/menu_admin_per_menu
 
 Menu attributes: https://www.drupal.org/project/menu_attributes
@@ -241,11 +278,15 @@ Menu block: https://www.drupal.org/project/menu_block
 
 Menu Firstchild: https://www.drupal.org/project/menu_firstchild
 
+Menu Item Extras: https://www.drupal.org/project/menu_item_extras
+
 Menu token: https://www.drupal.org/project/menu_token
 
 Responsive and off-canvas menu: https://www.drupal.org/project/responsive_menu
 
 Responsive Menus: https://www.drupal.org/project/responsive_menus
+
+Simple Mega Menu: https://www.drupal.org/project/simple_megamenu
 
 ## Notification
 
@@ -256,6 +297,16 @@ Message: https://www.drupal.org/project/message
 ## Panels
 
 Panels: https://www.drupal.org/project/panels
+
+## Pager
+
+Entity Pager: https://www.drupal.org/project/entity_pager
+
+Flippy: https://www.drupal.org/project/flippy
+
+Pager for Content type: https://www.drupal.org/project/pager_for_content_type
+
+Previous/Next API: https://www.drupal.org/project/prev_next
 
 ## Performance
 
@@ -405,6 +456,8 @@ reCaptcha: https://www.drupal.org/project/recaptcha
 
 ## User
 
+Persistent Login: https://www.drupal.org/project/persistent_login
+
 Redirect 403 to User Login: https://www.drupal.org/project/r4032login
 
 Restrict password change: https://www.drupal.org/project/restrict_password_change
@@ -435,6 +488,10 @@ FooTable: https://www.drupal.org/project/footable
 
 Pagerer: https://www.drupal.org/project/pagerer
 
+Views Block Exposed Filter Blocks: https://www.drupal.org/project/views_block_filter_block
+
+Views Bulk Edit: https://www.drupal.org/project/views_bulk_edit
+
 Views conditional: https://www.drupal.org/project/views_conditional
 
 Views Database Connector: https://www.drupal.org/project/views_database_connector
@@ -447,11 +504,21 @@ Views Merge Rows: https://www.drupal.org/project/views_merge_rows
 
 Views Send: https://www.drupal.org/project/views_send
 
-Views Simple Chart: https://www.drupal.org/project/views_simplechart
-
 Views Parity Row: https://www.drupal.org/project/views_parity_row
 
 Views PDF: https://www.drupal.org/project/views_pdf
+
+## Visualization
+
+Charts: https://www.drupal.org/project/charts
+
+Views Simple Chart: https://www.drupal.org/project/views_simplechart
+
+Visualization API: https://www.drupal.org/project/visualization
+
+VisualN: https://www.drupal.org/project/visualn
+
+VisualN Commerce: https://www.drupal.org/project/visualn_commerce
 
 ## Voting
 
@@ -462,6 +529,10 @@ Rate: https://www.drupal.org/project/rate
 Votingapi Widgets: https://www.drupal.org/project/votingapi_widgets
 
 ## Workflow
+
+Content Moderation Notifications: https://www.drupal.org/project/content_moderation_notifications
+
+Maestro: https://www.drupal.org/project/maestro
 
 Scheduled Updates: https://www.drupal.org/project/scheduled_updates
 
@@ -486,3 +557,51 @@ Cog: https://www.drupal.org/project/cog
 Zen: https://www.drupal.org/project/zen
 
 ZURB Foundation: https://www.drupal.org/project/zurb_foundation
+
+# Distributions
+
+## Demo
+
+Demo Framework: https://www.drupal.org/project/df
+
+Drupal 8 multilingual demo: https://www.drupal.org/project/multilingual_demo
+
+## Starter kit
+
+Lightning: https://www.drupal.org/project/lightning
+
+Octane: https://www.drupal.org/project/octane
+
+Panopoly: https://www.drupal.org/project/panopoly
+
+Seeds: https://www.drupal.org/project/seeds
+
+Varbase: https://www.drupal.org/project/varbase
+
+## Final
+
+aGov: https://www.drupal.org/project/agov
+
+Booking and Availability Management Tools for Drupal: https://www.drupal.org/project/bat
+
+Druppio: https://www.drupal.org/project/druppio_small_business_distribution
+
+FarmOS: https://www.drupal.org/project/farm
+
+Guardr: https://www.drupal.org/project/guardr
+
+Multipurpose Corporate Profile: https://www.drupal.org/project/multipurpose_corporate_profile
+
+OpenEDU: https://www.drupal.org/project/openedu
+
+OpenLucius: https://www.drupal.org/project/openlucius
+
+Open Hotel: https://www.drupal.org/project/openhotel
+
+Open Restaurant: https://www.drupal.org/project/openrestaurant
+
+Open Social: https://www.drupal.org/project/social
+
+Thunder: https://www.drupal.org/project/thunder
+
+Vardoc: https://www.drupal.org/project/vardoc
