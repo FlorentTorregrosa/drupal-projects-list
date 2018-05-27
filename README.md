@@ -231,7 +231,7 @@ Field group: https://www.drupal.org/project/field_group
 
 Field Image Style: https://www.drupal.org/project/field_image_style
 
-https://www.drupal.org/project/geolocation: https://www.drupal.org/project/geolocation
+Geolocation Field: https://www.drupal.org/project/geolocation
 
 Maxlength: https://www.drupal.org/project/maxlength
 
