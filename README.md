@@ -14,15 +14,17 @@ List of useful Drupal projects grouped by their use.
   * [Development](#development)
   * [Display](#display)
   * [Editor](#editor)
+  * [Encryption](#encryption)
   * [Entity](#entity)
   * [Field](#field)
     * [Field type](#field-type)
     * [Widget](#widget)
     * [Field display](#field-display)
-  * [Internationalization](#internationalization)
+  * [Image](#image)
   * [Mail](#mail)
   * [Media management](#media-management)
   * [Menu](#menu)
+  * [Multilingual](#multilingual)
   * [Notification](#notification)
   * [Panels](#panels)
   * [Pager](#pager)
@@ -40,6 +42,7 @@ List of useful Drupal projects grouped by their use.
   * [Views](#views)
   * [Visualization](#visualization)
   * [Voting](#voting)
+  * [Web service](#web-service)
   * [Workflow](#workflow)
 * [Themes](#themes)
   * [Administration](#administration-1)
@@ -61,7 +64,11 @@ Custom contextual links: https://www.drupal.org/project/ccl
 
 Flag: https://www.drupal.org/project/flag
 
+General Data Protection Regulation: https://www.drupal.org/project/gdpr
+
 Rules: https://www.drupal.org/project/rules
+
+Toggle Editable fields: https://www.drupal.org/project/toggle_editable_fields
 
 Webform: https://www.drupal.org/project/webform
 
@@ -89,11 +96,15 @@ Text Resize: https://www.drupal.org/project/text_resize
 
 Admin Toolbar: https://www.drupal.org/project/admin_toolbar
 
+Entity Reports: https://www.drupal.org/project/entity_reports
+
 Image styles mapping: https://www.drupal.org/project/image_styles_mapping
 
 Masquerade: https://www.drupal.org/project/masquerade
 
 Monitoring: https://www.drupal.org/project/monitoring
+
+README: https://www.drupal.org/project/readme
 
 Scheduled maintenance: https://www.drupal.org/project/scheduled_maintenance
 
@@ -117,13 +128,37 @@ Block Visibility Groups: https://www.drupal.org/project/block_visibility_groups
 
 ## Commerce
 
+Commerce Add To Cart Link: https://www.drupal.org/project/commerce_add_to_cart_link
+
 Commerce Cart Flyout: https://www.drupal.org/project/commerce_cart_flyout
 
 Commerce license: https://www.drupal.org/project/commerce_license
 
 ## Configuration
 
+Config Distro: https://www.drupal.org/project/config_distro
+
+Config Export Ignore: https://www.drupal.org/project/config_export_ignore
+
+Config Filter: https://www.drupal.org/project/config_filter
+
+Config Ignore: https://www.drupal.org/project/config_ignore
+
+Config Suite: https://www.drupal.org/project/config_suite
+
+Configuration selector: https://www.drupal.org/project/config_selector
+
+Configuration Split: https://www.drupal.org/project/config_split
+
+Configuration Synchronizer: https://www.drupal.org/project/config_sync
+
+Custom configurations plugin: https://www.drupal.org/project/custom_configurations
+
 Features: https://www.drupal.org/project/features
+
+Fixed block content: https://www.drupal.org/project/fixed_block_content
+
+Locale: Config import: https://www.drupal.org/project/config_import_locale
 
 ## Content
 
@@ -173,9 +208,13 @@ Stage File Proxy: https://www.drupal.org/project/stage_file_proxy
 
 Style Guide: https://www.drupal.org/project/styleguide
 
+Theme Breakpoints for Javascript: https://www.drupal.org/project/theme_breakpoints_js
+
 Twig tweak: https://www.drupal.org/project/twig_tweak
 
 UI Patterns: https://www.drupal.org/project/ui_patterns
+
+Validators: https://www.drupal.org/project/validators
 
 Views Templates: https://www.drupal.org/project/views_templates
 
@@ -183,11 +222,15 @@ Views Templates: https://www.drupal.org/project/views_templates
 
 @font-your-face: https://www.drupal.org/project/fontyourface
 
+Background Image: https://www.drupal.org/project/background_image
+
 Bootstrap related modules: https://www.drupal.org/node/2011034
 
 Context: https://www.drupal.org/project/context
 
 Display suite: https://www.drupal.org/project/ds
+
+Display Suite Chained Fields: https://www.drupal.org/project/ds_chains
 
 Domain Theme Switch: https://www.drupal.org/project/domain_theme_switch
 
@@ -213,6 +256,20 @@ Linkit: https://www.drupal.org/project/linkit
 
 Pathologic: https://www.drupal.org/project/pathologic
 
+## Encryption
+
+Encrypt: https://www.drupal.org/project/encrypt
+
+Field Encryption: https://www.drupal.org/project/field_encrypt
+
+File Encrypt: https://www.drupal.org/project/file_encrypt
+
+Key: https://www.drupal.org/project/key
+
+User Encrypt: https://www.drupal.org/project/user_encrypt
+
+Webform Encrypt: https://www.drupal.org/project/webform_encrypt
+
 ## Entity
 
 Entity Class Formatter: https://www.drupal.org/project/entity_class_formatter
@@ -231,8 +288,6 @@ Field group: https://www.drupal.org/project/field_group
 
 Field Image Style: https://www.drupal.org/project/field_image_style
 
-Geolocation Field: https://www.drupal.org/project/geolocation
-
 Maxlength: https://www.drupal.org/project/maxlength
 
 Views Reference Field: https://www.drupal.org/project/viewsreference
@@ -241,9 +296,15 @@ Views Reference Field: https://www.drupal.org/project/viewsreference
 
 Address: https://www.drupal.org/project/address
 
+Color Field: https://www.drupal.org/project/color_field
+
 Dynamic Entity Reference: https://www.drupal.org/project/dynamic_entity_reference
 
 Entity reference integrity: https://www.drupal.org/project/entity_reference_integrity
+
+Geolocation Field: https://www.drupal.org/project/geolocation
+
+Interval Field: https://www.drupal.org/project/interval
 
 Machine name: https://www.drupal.org/project/machine_name
 
@@ -269,25 +330,39 @@ Multiple selects: https://www.drupal.org/project/multiple_selects
 
 Multiselect: https://www.drupal.org/project/multiselect
 
+Taxonomy container: https://www.drupal.org/project/taxonomy_container
+
+Time Range: https://www.drupal.org/project/time_range
+
 ### Field display
 
 Compact date/time range formatter: https://www.drupal.org/project/daterange_compact
 
+Datetime Extras: https://www.drupal.org/project/datetime_extras
+
+Entity Reference Display: https://www.drupal.org/project/entity_reference_display
+
 Extra Field: https://www.drupal.org/project/extra_field
+
+Field Formatter: https://www.drupal.org/project/field_formatter
 
 Field multiple limit: https://www.drupal.org/project/field_multiple_limit
 
 Fixed text link formatter: https://www.drupal.org/project/fixed_text_link_formatter
 
+Linked Field: https://www.drupal.org/project/linked_field
+
 Obfuscate Email: https://www.drupal.org/project/obfuscate_email
 
 Smart trim: https://www.drupal.org/project/smart_trim
 
-## Internationalization
+## Image
 
-String Overrides: https://www.drupal.org/project/stringoverrides
+Image Effects: https://www.drupal.org/project/image_effects
 
-Translation Management Tool: https://www.drupal.org/project/tmgmt
+Image Optimize (or ImageAPI Optimize): https://www.drupal.org/project/imageapi_optimize
+
+Imagecache External: https://www.drupal.org/project/imagecache_external
 
 ## Mail
 
@@ -306,6 +381,8 @@ Drupal 8 Media Guide: https://drupal-media.gitbooks.io/drupal8-guide/content
 Remote Stream Wrapper: https://www.drupal.org/project/remote_stream_wrapper
 
 ## Menu
+
+Cheeseburger Menu: https://www.drupal.org/project/cheeseburger_menu
 
 Colossal Menu: https://www.drupal.org/project/colossal_menu
 
@@ -329,7 +406,21 @@ Responsive and off-canvas menu: https://www.drupal.org/project/responsive_menu
 
 Responsive Menus: https://www.drupal.org/project/responsive_menus
 
+Sidr: Responsive Menus: https://www.drupal.org/project/sidr
+
 Simple Mega Menu: https://www.drupal.org/project/simple_megamenu
+
+## Multilingual
+
+Admin Language Negotiation: https://www.drupal.org/project/admin_language_negotiation
+
+CLI Language: https://www.drupal.org/project/cli_language
+
+Language Selection Page: https://www.drupal.org/project/language_selection_page
+
+String Overrides: https://www.drupal.org/project/stringoverrides
+
+Translation Management Tool: https://www.drupal.org/project/tmgmt
 
 ## Notification
 
@@ -356,6 +447,8 @@ Previous/Next API: https://www.drupal.org/project/prev_next
 http://redcrackle.com/blog/performance/drupal-performance-optimization-checklist
 
 Advanced CSS/JS Aggregation: https://www.drupal.org/project/advagg
+
+Advanced Varnish Cache: https://www.drupal.org/project/adv_varnish
 
 Cache Control Override: https://www.drupal.org/project/cache_control_override
 
@@ -475,6 +568,8 @@ Metatag Routes: https://www.drupal.org/project/metatag_routes
 
 Pathauto: https://www.drupal.org/project/pathauto
 
+Path redirect import: https://www.drupal.org/project/path_redirect_import
+
 Redirect: https://www.drupal.org/project/redirect
 
 RobotsTxt: https://www.drupal.org/project/robotstxt
@@ -497,15 +592,25 @@ Views Slideshow: https://www.drupal.org/project/views_slideshow
 
 ShareThis: https://www.drupal.org/project/sharethis
 
+Social API: https://www.drupal.org/project/social_api
+
 ## Spam control
+
+Antibot: https://www.drupal.org/project/antibot
 
 Captcha: https://www.drupal.org/project/captcha
 
 Honeypot: https://www.drupal.org/project/honeypot
 
+http:BL: https://www.drupal.org/project/httpbl
+
 reCaptcha: https://www.drupal.org/project/recaptcha
 
 ## User
+
+Auto Purge Users: https://www.drupal.org/project/purge_users
+
+Password Reset Landing Page: https://www.drupal.org/project/prlp
 
 Persistent Login: https://www.drupal.org/project/persistent_login
 
@@ -549,6 +654,8 @@ Views Database Connector: https://www.drupal.org/project/views_database_connecto
 
 Views data export: https://www.drupal.org/project/views_data_export
 
+Views fieldsets: https://www.drupal.org/project/views_fieldsets
+
 Views Infinite Scroll: https://www.drupal.org/project/views_infinite_scroll
 
 Views Merge Rows: https://www.drupal.org/project/views_merge_rows
@@ -583,6 +690,14 @@ Rate: https://www.drupal.org/project/rate
 
 Votingapi Widgets: https://www.drupal.org/project/votingapi_widgets
 
+## Web service / Headless
+
+Basic Auth Global: https://www.drupal.org/project/basic_auth_global
+
+Consumer Image Styles: https://www.drupal.org/project/consumer_image_styles
+
+Decoupled Router: https://www.drupal.org/project/decoupled_router
+
 ## Workflow
 
 Content Moderation Notifications: https://www.drupal.org/project/content_moderation_notifications
@@ -608,6 +723,12 @@ Bear Skin: https://www.drupal.org/project/bear_skin
 Bootstrap: https://www.drupal.org/project/bootstrap
 
 Cog: https://www.drupal.org/project/cog
+
+Drupal8 W3CSS Theme: https://www.drupal.org/project/d8w3css
+
+Emulsify: https://www.drupal.org/project/emulsify
+
+Radix: https://www.drupal.org/project/radix
 
 Zen: https://www.drupal.org/project/zen
 
