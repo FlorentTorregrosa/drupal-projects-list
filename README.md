@@ -3,6 +3,7 @@ List of useful Drupal projects grouped by their use.
 
 * [Modules](#modules)
   * [Other](#other)
+  * [Accessibility](#accessibility)
   * [Administration](#administration)
   * [Analytics](#analytics)
   * [Block](#block)
@@ -64,6 +65,26 @@ Rules: https://www.drupal.org/project/rules
 
 Webform: https://www.drupal.org/project/webform
 
+## Accessibility
+
+Accessibility: https://www.drupal.org/project/accessibility
+
+Automatic Alternative Text: https://www.drupal.org/project/auto_alter
+
+Block ARIA Landmark Roles: https://www.drupal.org/project/block_aria_landmark_roles
+
+CKEditor Abbreviation: https://www.drupal.org/project/ckeditor_abbreviation
+
+CKEditor Accessibility Checker: https://www.drupal.org/project/ckeditor_a11ychecker
+
+High contrast: https://www.drupal.org/project/high_contrast
+
+HtmLawed: https://www.drupal.org/project/htmlawed
+
+Style Switcher: https://www.drupal.org/project/styleswitcher
+
+Text Resize: https://www.drupal.org/project/text_resize
+
 ## Administration
 
 Admin Toolbar: https://www.drupal.org/project/admin_toolbar
@@ -95,6 +116,8 @@ Block class: https://www.drupal.org/project/block_class
 Block Visibility Groups: https://www.drupal.org/project/block_visibility_groups
 
 ## Commerce
+
+Commerce Cart Flyout: https://www.drupal.org/project/commerce_cart_flyout
 
 Commerce license: https://www.drupal.org/project/commerce_license
 
@@ -136,7 +159,11 @@ Diff: https://www.drupal.org/project/diff
 
 Dummy image: https://www.drupal.org/project/dummyimage
 
+Entity Events: https://www.drupal.org/project/entity_events
+
 Entity Relationship Diagrams: https://www.drupal.org/project/erd
+
+Hook Event Dispatcher: https://www.drupal.org/project/hook_event_dispatcher
 
 Memory profiler: https://www.drupal.org/project/memory_profiler
 
@@ -170,6 +197,8 @@ Font Awesome Icons: https://www.drupal.org/project/fontawesome
 
 Form mode manager: https://www.drupal.org/project/form_mode_manager
 
+Mason: https://www.drupal.org/project/mason
+
 Quick tabs: https://www.drupal.org/project/quicktabs
 
 Switch Page Theme: https://www.drupal.org/project/switch_page_theme
@@ -190,6 +219,8 @@ Entity Class Formatter: https://www.drupal.org/project/entity_class_formatter
 
 ## Field
 
+Block field: https://www.drupal.org/project/block_field
+
 Conditional fields: https://www.drupal.org/project/conditional_fields
 
 Display fields: https://www.drupal.org/project/display_fields
@@ -200,7 +231,11 @@ Field group: https://www.drupal.org/project/field_group
 
 Field Image Style: https://www.drupal.org/project/field_image_style
 
+https://www.drupal.org/project/geolocation: https://www.drupal.org/project/geolocation
+
 Maxlength: https://www.drupal.org/project/maxlength
+
+Views Reference Field: https://www.drupal.org/project/viewsreference
 
 ### Field type
 
@@ -241,6 +276,8 @@ Compact date/time range formatter: https://www.drupal.org/project/daterange_comp
 Extra Field: https://www.drupal.org/project/extra_field
 
 Field multiple limit: https://www.drupal.org/project/field_multiple_limit
+
+Fixed text link formatter: https://www.drupal.org/project/fixed_text_link_formatter
 
 Obfuscate Email: https://www.drupal.org/project/obfuscate_email
 
@@ -320,7 +357,11 @@ http://redcrackle.com/blog/performance/drupal-performance-optimization-checklist
 
 Advanced CSS/JS Aggregation: https://www.drupal.org/project/advagg
 
+Cache Control Override: https://www.drupal.org/project/cache_control_override
+
 DB Maintenance: https://www.drupal.org/project/db_maintenance
+
+Health check: https://www.drupal.org/project/health_check
 
 HTTP/2 Server Push: https://www.drupal.org/project/http2_server_push
 
@@ -359,6 +400,8 @@ Roleassign: https://www.drupal.org/project/roleassign
 User Personas: https://www.drupal.org/project/personas
 
 ## Search
+
+Active Facet Pills: https://www.drupal.org/project/active_facet_pills
 
 Elasticsearch Connector: https://www.drupal.org/project/elasticsearch_connector
 
@@ -427,6 +470,8 @@ Username Enumeration Prevention: https://www.drupal.org/project/username_enumera
 Link checker: https://www.drupal.org/project/linkchecker
 
 Metatag: https://www.drupal.org/project/metatag
+
+Metatag Routes: https://www.drupal.org/project/metatag_routes
 
 Pathauto: https://www.drupal.org/project/pathauto
 
@@ -517,6 +562,10 @@ Views PDF: https://www.drupal.org/project/views_pdf
 ## Visualization
 
 Charts: https://www.drupal.org/project/charts
+
+Easychart: https://www.drupal.org/project/easychart
+
+Flot: https://www.drupal.org/project/flot
 
 Views Simple Chart: https://www.drupal.org/project/views_simplechart
 
