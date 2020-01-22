@@ -698,6 +698,10 @@ Consumer Image Styles: https://www.drupal.org/project/consumer_image_styles
 
 Decoupled Router: https://www.drupal.org/project/decoupled_router
 
+API Key manager: https://www.drupal.org/project/api_key_manager
+
+Key Auth: https://www.drupal.org/project/key_auth
+
 ## Workflow
 
 Content Moderation Notifications: https://www.drupal.org/project/content_moderation_notifications
