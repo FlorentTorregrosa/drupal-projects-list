@@ -1,5 +1,7 @@
 # drupal-projects-list
-List of useful Drupal projects grouped by their use.
+List of useful Drupal projects grouped by their use. Not all projects had been used or even tested.
+
+Also starred modules on Drupal.org: https://www.drupal.org/user/2388214/starred
 
 * [Modules](#modules)
   * [Other](#other)
@@ -98,6 +100,10 @@ Admin Toolbar: https://www.drupal.org/project/admin_toolbar
 
 Entity Reports: https://www.drupal.org/project/entity_reports
 
+Entity Usage: https://www.drupal.org/project/entity_usage
+
+Entity Usage Addons: https://www.drupal.org/project/entity_usage_addons
+
 Image styles mapping: https://www.drupal.org/project/image_styles_mapping
 
 Masquerade: https://www.drupal.org/project/masquerade
@@ -118,7 +124,11 @@ Toolbar Menu: https://www.drupal.org/project/toolbar_menu
 
 Google Analytics: https://www.drupal.org/project/google_analytics
 
-Piwik Web Analytics: https://www.drupal.org/project/piwik
+GoogleTagManager: https://www.drupal.org/project/google_tag
+
+Matomo Analytics: https://www.drupal.org/project/matomo
+
+Matomo Noscript: https://www.drupal.org/project/piwik_noscript
 
 ## Block
 
@@ -130,9 +140,23 @@ Block Visibility Groups: https://www.drupal.org/project/block_visibility_groups
 
 Commerce Add To Cart Link: https://www.drupal.org/project/commerce_add_to_cart_link
 
+Commerce Cart Advanced: https://www.drupal.org/project/commerce_cart_advanced
+
 Commerce Cart Flyout: https://www.drupal.org/project/commerce_cart_flyout
 
+Commerce Demo: https://www.drupal.org/project/commerce_demo
+
+Commerce Inventory: https://www.drupal.org/project/commerce_inventory
+
 Commerce license: https://www.drupal.org/project/commerce_license
+
+Commerce Point of Sale (POS): https://www.drupal.org/project/commerce_pos
+
+Commerce Product Reminder: https://www.drupal.org/project/commerce_product_reminder
+
+Commerce Stock: https://www.drupal.org/project/commerce_stock
+
+Commerce Wishlist: https://www.drupal.org/project/commerce_wishlist
 
 ## Configuration
 
@@ -168,6 +192,8 @@ Custom Publishing Options: https://www.drupal.org/project/custom_pub
 
 Entityqueue Form Widget: https://www.drupal.org/project/entityqueue_form_widget
 
+Entity visibility preview: https://www.drupal.org/project/entity_visibility_preview
+
 Override Node Options: https://www.drupal.org/project/override_node_options
 
 Paragraphs Previewer: https://www.drupal.org/project/paragraphs_previewer
@@ -202,6 +228,8 @@ Hook Event Dispatcher: https://www.drupal.org/project/hook_event_dispatcher
 
 Memory profiler: https://www.drupal.org/project/memory_profiler
 
+Reroute Email: https://www.drupal.org/project/reroute_email
+
 Search kint: https://www.drupal.org/project/search_kint
 
 Stage File Proxy: https://www.drupal.org/project/stage_file_proxy
@@ -212,8 +240,6 @@ Theme Breakpoints for Javascript: https://www.drupal.org/project/theme_breakpoin
 
 Twig tweak: https://www.drupal.org/project/twig_tweak
 
-UI Patterns: https://www.drupal.org/project/ui_patterns
-
 Validators: https://www.drupal.org/project/validators
 
 Views Templates: https://www.drupal.org/project/views_templates
@@ -221,6 +247,10 @@ Views Templates: https://www.drupal.org/project/views_templates
 ## Display
 
 @font-your-face: https://www.drupal.org/project/fontyourface
+
+Advanced Text Formatter: https://www.drupal.org/project/advanced_text_formatter
+
+Animated GIF: https://www.drupal.org/project/animated_gif
 
 Background Image: https://www.drupal.org/project/background_image
 
@@ -240,7 +270,27 @@ Font Awesome Icons: https://www.drupal.org/project/fontawesome
 
 Form mode manager: https://www.drupal.org/project/form_mode_manager
 
+Layout Builder Asymmetric Translation: https://www.drupal.org/project/layout_builder_at
+
+Layout Builder Base: https://www.drupal.org/project/layout_builder_base
+
+Layout builder library: https://www.drupal.org/project/layout_library
+
+Layout Builder Modal: https://www.drupal.org/project/layout_builder_modal
+
+Layout Builder Styles: https://www.drupal.org/project/layout_builder_styles
+
+Layout Builder Symmetric Translations: https://www.drupal.org/project/layout_builder_st
+
+Layout disable: https://www.drupal.org/project/layout_disable
+
+Layout Section Classes: https://www.drupal.org/project/layout_section_classes
+
 Mason: https://www.drupal.org/project/mason
+
+Paragraph View Mode: https://www.drupal.org/project/paragraph_view_mode
+
+Paragraphs View Modes: https://www.drupal.org/project/paragraphs_viewmode
 
 Quick tabs: https://www.drupal.org/project/quicktabs
 
@@ -248,9 +298,15 @@ Switch Page Theme: https://www.drupal.org/project/switch_page_theme
 
 ThemeKey: https://www.drupal.org/project/themekey
 
+UI Patterns: https://www.drupal.org/project/ui_patterns
+
+UI Patterns Layout Builder: https://www.drupal.org/project/ui_patterns_layout_builder
+
 View Mode Page: https://www.drupal.org/project/view_mode_page
 
 ## Editor
+
+CKEditor List Style: https://www.drupal.org/project/ckeditor_liststyle
 
 Linkit: https://www.drupal.org/project/linkit
 
@@ -326,9 +382,21 @@ Inline entity form: https://www.drupal.org/project/inline_entity_form
 
 jQuery UI MultiSelect Widget: https://www.drupal.org/project/jquery_ui_multiselect_widget
 
+Many selects: https://www.drupal.org/project/many_selects
+
 Multiple selects: https://www.drupal.org/project/multiple_selects
 
 Multiselect: https://www.drupal.org/project/multiselect
+
+Pretty Checkbox Radio: https://www.drupal.org/project/pcr
+
+Select 2: https://www.drupal.org/project/select2
+
+Select2 Boxes: https://www.drupal.org/project/select2boxes
+
+Super Select: https://www.drupal.org/project/ss
+
+Super Term Reference Autocomplete Widget: https://www.drupal.org/project/straw
 
 Taxonomy container: https://www.drupal.org/project/taxonomy_container
 
@@ -345,6 +413,8 @@ Entity Reference Display: https://www.drupal.org/project/entity_reference_displa
 Extra Field: https://www.drupal.org/project/extra_field
 
 Field Formatter: https://www.drupal.org/project/field_formatter
+
+Field Formatter Range: https://www.drupal.org/project/field_formatter_range
 
 Field multiple limit: https://www.drupal.org/project/field_multiple_limit
 
@@ -372,19 +442,25 @@ Mail Editor: https://www.drupal.org/project/mail_edit
 
 Mail system: https://www.drupal.org/project/mailsystem
 
+SMTP Authentication Support: https://www.drupal.org/project/smtp
+
 Swiftmailer: https://www.drupal.org/project/swiftmailer
 
 ## Media management
 
 Drupal 8 Media Guide: https://drupal-media.gitbooks.io/drupal8-guide/content
 
+Media Entity Download: https://www.drupal.org/project/media_entity_download
+
+Media Entity File Replace: https://www.drupal.org/project/media_entity_file_replace
+
+Media PDF Thumbnail: https://www.drupal.org/project/media_pdf_thumbnail
+
 Remote Stream Wrapper: https://www.drupal.org/project/remote_stream_wrapper
 
 ## Menu
 
 Cheeseburger Menu: https://www.drupal.org/project/cheeseburger_menu
-
-Colossal Menu: https://www.drupal.org/project/colossal_menu
 
 Drupal 8 MegaMenu: https://www.drupal.org/project/we_megamenu
 
@@ -400,6 +476,8 @@ Menu Firstchild: https://www.drupal.org/project/menu_firstchild
 
 Menu Item Extras: https://www.drupal.org/project/menu_item_extras
 
+Menu Multilingual: https://www.drupal.org/project/menu_multilingual
+
 Menu token: https://www.drupal.org/project/menu_token
 
 Responsive and off-canvas menu: https://www.drupal.org/project/responsive_menu
@@ -409,6 +487,8 @@ Responsive Menus: https://www.drupal.org/project/responsive_menus
 Sidr: Responsive Menus: https://www.drupal.org/project/sidr
 
 Simple Mega Menu: https://www.drupal.org/project/simple_megamenu
+
+Translatable menu link uri: https://www.drupal.org/project/translatable_menu_link_uri
 
 ## Multilingual
 
@@ -452,6 +532,8 @@ Advanced Varnish Cache: https://www.drupal.org/project/adv_varnish
 
 Cache Control Override: https://www.drupal.org/project/cache_control_override
 
+Cache Tags Header: https://www.drupal.org/project/cache_tags
+
 DB Maintenance: https://www.drupal.org/project/db_maintenance
 
 Health check: https://www.drupal.org/project/health_check
@@ -478,6 +560,8 @@ Sessionless BigPipe: https://www.drupal.org/project/big_pipe_sessionless
 
 Views Custom Cache Tags: https://www.drupal.org/project/views_custom_cache_tag
 
+Warmer: https://www.drupal.org/project/warmer
+
 ## Permission
 
 Field permissions: https://www.drupal.org/project/field_permissions
@@ -502,6 +586,8 @@ Elasticsearch Helper: https://www.drupal.org/project/elasticsearch_helper
 
 Facets: https://www.drupal.org/project/facets
 
+Facet granular date: https://www.drupal.org/project/facet_granular_date
+
 Search API: https://www.drupal.org/project/search_api
 
 Search API AZ Glossary: https://www.drupal.org/project/search_api_glossary
@@ -513,6 +599,8 @@ Search API Elasticsearch: https://www.drupal.org/project/search_api_elasticsearc
 Search API saved searches: https://www.drupal.org/project/search_api_saved_searches
 
 Search API Solr: https://www.drupal.org/project/search_api_solr
+
+Search API sorts: https://www.drupal.org/project/search_api_sorts
 
 Search API View Modes: https://www.drupal.org/project/search_api_view_modes
 
@@ -596,6 +684,8 @@ Social API: https://www.drupal.org/project/social_api
 
 ## Spam control
 
+Anti Spam by CleanTalk: https://www.drupal.org/project/cleantalk
+
 Antibot: https://www.drupal.org/project/antibot
 
 Captcha: https://www.drupal.org/project/captcha
@@ -642,7 +732,15 @@ Entity Views Attachment: https://www.drupal.org/project/eva
 
 FooTable: https://www.drupal.org/project/footable
 
+MixItUp Views: https://www.drupal.org/project/mixitup_views
+
 Pagerer: https://www.drupal.org/project/pagerer
+
+VBO export: https://www.drupal.org/project/vbo_export
+
+Views Add Button: https://www.drupal.org/project/views_add_button
+
+Views Aggregator Plus: https://www.drupal.org/project/views_aggregator
 
 Views Block Exposed Filter Blocks: https://www.drupal.org/project/views_block_filter_block
 
@@ -654,11 +752,21 @@ Views Database Connector: https://www.drupal.org/project/views_database_connecto
 
 Views data export: https://www.drupal.org/project/views_data_export
 
+Views Exposed Form Fieldset: https://www.drupal.org/project/views_ef_fieldset
+
+Views exposed form layout: https://www.drupal.org/project/vefl
+
 Views fieldsets: https://www.drupal.org/project/views_fieldsets
+
+Views flexible pager: https://www.drupal.org/project/views_flexible_pager
+
+Views Flipped Table: https://www.drupal.org/project/views_flipped_table
 
 Views Infinite Scroll: https://www.drupal.org/project/views_infinite_scroll
 
 Views Merge Rows: https://www.drupal.org/project/views_merge_rows
+
+Views Negate: https://www.drupal.org/project/views_negate
 
 Views Send: https://www.drupal.org/project/views_send
 
@@ -692,15 +800,33 @@ Votingapi Widgets: https://www.drupal.org/project/votingapi_widgets
 
 ## Web service / Headless
 
+API Key manager: https://www.drupal.org/project/api_key_manager
+
 Basic Auth Global: https://www.drupal.org/project/basic_auth_global
 
 Consumer Image Styles: https://www.drupal.org/project/consumer_image_styles
 
+Decoupled User Authentication: https://www.drupal.org/project/decoupled_auth
+
 Decoupled Router: https://www.drupal.org/project/decoupled_router
 
-API Key manager: https://www.drupal.org/project/api_key_manager
+JSON:API Boost: https://www.drupal.org/project/jsonapi_boost
+
+JSON:API Comment: https://www.drupal.org/project/jsonapi_comment
+
+JSON:API Cross Bundles: https://www.drupal.org/project/jsonapi_cross_bundles
+
+JSON:API Explorer: https://www.drupal.org/project/jsonapi_explorer
+
+JSON:API Include: https://www.drupal.org/project/jsonapi_include
+
+JSON:API Schema: https://www.drupal.org/project/jsonapi_schema
+
+JSON-RPC: https://www.drupal.org/project/jsonrpc
 
 Key Auth: https://www.drupal.org/project/key_auth
+
+Subrequests: https://www.drupal.org/project/subrequests
 
 ## Workflow
 
@@ -718,6 +844,8 @@ Scheduler: https://www.drupal.org/project/scheduler
 
 Eleven: https://www.drupal.org/project/eleven
 
+Root Administration theme - Drupal 8: https://www.drupal.org/project/root
+
 ## Base
 
 AdaptiveTheme: https://www.drupal.org/project/adaptivetheme
@@ -726,7 +854,11 @@ Bear Skin: https://www.drupal.org/project/bear_skin
 
 Bootstrap: https://www.drupal.org/project/bootstrap
 
+Bulma CSS: https://www.drupal.org/project/bulma
+
 Cog: https://www.drupal.org/project/cog
+
+Commerce Bootstrap Base Theme: https://www.drupal.org/project/commerce_bootstrap
 
 Drupal8 W3CSS Theme: https://www.drupal.org/project/d8w3css
 
