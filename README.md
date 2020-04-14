@@ -690,6 +690,8 @@ Antibot: https://www.drupal.org/project/antibot
 
 Captcha: https://www.drupal.org/project/captcha
 
+HCaptcha: https://www.drupal.org/project/hcaptcha
+
 Honeypot: https://www.drupal.org/project/honeypot
 
 http:BL: https://www.drupal.org/project/httpbl
